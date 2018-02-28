@@ -5,3 +5,4 @@
 - 2018-02-19 — feat: add real-time subtitle editing functionality to timeline view
 - 2018-02-20 — feat(captioning): integrate real-time speech-to-text for live captions
 - 2018-02-21 — feat(captioning): add real-time speech-to-text transcription support
+- 2018-02-28 — feat(timeline): add draggable markers for better sync management
