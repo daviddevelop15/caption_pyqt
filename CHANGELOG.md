@@ -9,3 +9,4 @@
 - 2018-03-02 — feat(videoSync): add timeline syncing feature for improved captioning experience
 - 2018-03-06 — feat(video): add real-time captioning feature for live streams
 - 2018-03-09 — feat: add speech-to-text functionality for live video captioning
+- 2018-03-12 — feat(captioning): add speech-to-text support for real-time captions
