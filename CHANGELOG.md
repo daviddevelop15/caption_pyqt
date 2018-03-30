@@ -16,3 +16,4 @@
 - 2018-03-23 — feat(captioning): add support for multiple subtitle formats on export
 - 2018-03-28 — feat(ui): enhance subtitle editing interface for better usability
 - 2018-03-29 — feat: add speech-to-text feature for live video captioning support
+- 2018-03-30 — feat(export): add support for exporting subtitles in SRT format
