@@ -18,3 +18,4 @@
 - 2018-03-29 — feat: add speech-to-text feature for live video captioning support
 - 2018-03-30 — feat(export): add support for exporting subtitles in SRT format
 - 2018-04-02 — feat: add speech recognition model selection to settings menu
+- 2018-04-06 — feat(video): add live transcription toggle for improved user experience
