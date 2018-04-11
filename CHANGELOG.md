@@ -20,3 +20,4 @@
 - 2018-04-02 — feat: add speech recognition model selection to settings menu
 - 2018-04-06 — feat(video): add live transcription toggle for improved user experience
 - 2018-04-10 — feat(captioning): add speech-to-text support for multiple languages
+- 2018-04-11 — feat(video): add support for multiple audio sources in captioning tool
