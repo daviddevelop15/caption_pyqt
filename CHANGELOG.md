@@ -22,3 +22,4 @@
 - 2018-04-10 — feat(captioning): add speech-to-text support for multiple languages
 - 2018-04-11 — feat(video): add support for multiple audio sources in captioning tool
 - 2018-04-16 — feat(ui): add real-time caption preview to the editing interface
+- 2018-04-18 — feat(captioning): implement real-time speech-to-text processing for subtitles
