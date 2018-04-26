@@ -24,3 +24,4 @@
 - 2018-04-16 — feat(ui): add real-time caption preview to the editing interface
 - 2018-04-18 — feat(captioning): implement real-time speech-to-text processing for subtitles
 - 2018-04-24 — feat(video): add real-time speech-to-text functionality for captions
+- 2018-04-26 — feat(captioning): add support for multiple language subtitle exports
