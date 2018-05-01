@@ -26,3 +26,4 @@
 - 2018-04-24 — feat(video): add real-time speech-to-text functionality for captions
 - 2018-04-26 — feat(captioning): add support for multiple language subtitle exports
 - 2018-04-27 — feat: add speech-to-text functionality for live captioning feature
+- 2018-05-01 — feat(video): add support for real-time caption syncing in timeline editor
