@@ -30,3 +30,4 @@
 - 2018-05-02 — feat(video): add real-time subtitle synchronization for live captions
 - 2018-05-03 — feat(ui): add timeline marker snapping for improved editing precision
 - 2018-05-09 — feat(video): add live speech-to-text feature for real-time captioning
+- 2018-05-10 — feat(video): add speech-to-text feature for real-time captioning
