@@ -31,3 +31,4 @@
 - 2018-05-03 — feat(ui): add timeline marker snapping for improved editing precision
 - 2018-05-09 — feat(video): add live speech-to-text feature for real-time captioning
 - 2018-05-10 — feat(video): add speech-to-text feature for real-time captioning
+- 2018-05-11 — feat: add real-time speech-to-text functionality for live captions
