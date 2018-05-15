@@ -32,3 +32,4 @@
 - 2018-05-09 — feat(video): add live speech-to-text feature for real-time captioning
 - 2018-05-10 — feat(video): add speech-to-text feature for real-time captioning
 - 2018-05-11 — feat: add real-time speech-to-text functionality for live captions
+- 2018-05-15 — feat(captioning): add auto-punctuation feature for improved readability
