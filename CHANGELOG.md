@@ -40,3 +40,4 @@
 - 2018-05-24 — feat(timeline): add support for dragging captions on the timeline editor
 - 2018-05-28 — feat(video): add live speech-to-text functionality for improved captions
 - 2018-05-29 — feat(video): add support for multiple audio inputs in live captions
+- 2018-06-01 — feat(video): add speech-to-text functionality for real-time captions
