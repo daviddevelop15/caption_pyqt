@@ -41,3 +41,4 @@
 - 2018-05-28 — feat(video): add live speech-to-text functionality for improved captions
 - 2018-05-29 — feat(video): add support for multiple audio inputs in live captions
 - 2018-06-01 — feat(video): add speech-to-text functionality for real-time captions
+- 2018-06-06 — feat(captioning): add real-time speech-to-text processing feature
