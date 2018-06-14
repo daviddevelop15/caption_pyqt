@@ -45,3 +45,4 @@
 - 2018-06-07 — feat: add live speech-to-text functionality for improved captioning accuracy
 - 2018-06-11 — feat(captioning): add support for multiple languages in speech-to-text processing
 - 2018-06-12 — feat: add support for exporting captions in SRT format for better compatibility
+- 2018-06-14 — feat(video): add real-time speech-to-text feature for live captions
