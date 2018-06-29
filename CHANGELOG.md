@@ -50,3 +50,4 @@
 - 2018-06-19 — feat(captioning): add auto-sync feature for subtitles with video timeline
 - 2018-06-26 — feat(captioning): add support for real-time speech-to-text in video streams
 - 2018-06-27 — feat(ci): integrate GitHub Actions for automated testing workflow
+- 2018-06-29 — feat(video): add support for real-time caption rendering during playback
