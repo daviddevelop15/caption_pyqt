@@ -52,3 +52,4 @@
 - 2018-06-27 — feat(ci): integrate GitHub Actions for automated testing workflow
 - 2018-06-29 — feat(video): add support for real-time caption rendering during playback
 - 2018-07-04 — feat(video): add speech-to-text support for live captioning sessions
+- 2018-07-06 — feat(video): add speech-to-text support for live captioning feature
