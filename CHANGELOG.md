@@ -57,3 +57,4 @@
 - 2018-07-12 — feat(video): add live captioning support with improved speech-to-text accuracy
 - 2018-07-13 — feat(timeline): add ability to edit subtitle timings in real-time
 - 2018-07-18 — feat(captioning): add support for real-time speaker identification in subtitles
+- 2018-07-19 — feat(video-captioning): add support for multi-language subtitle exporting
