@@ -58,3 +58,4 @@
 - 2018-07-13 — feat(timeline): add ability to edit subtitle timings in real-time
 - 2018-07-18 — feat(captioning): add support for real-time speaker identification in subtitles
 - 2018-07-19 — feat(video-captioning): add support for multi-language subtitle exporting
+- 2018-07-23 — feat(captioning): add support for multiple language subtitle exports
