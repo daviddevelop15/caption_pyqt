@@ -60,3 +60,4 @@
 - 2018-07-19 — feat(video-captioning): add support for multi-language subtitle exporting
 - 2018-07-23 — feat(captioning): add support for multiple language subtitle exports
 - 2018-07-24 — feat(video): implement real-time caption generation with speech-to-text
+- 2018-07-25 — feat(captioning): implement real-time speech recognition for captions
