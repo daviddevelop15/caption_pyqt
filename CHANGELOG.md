@@ -61,3 +61,4 @@
 - 2018-07-23 — feat(captioning): add support for multiple language subtitle exports
 - 2018-07-24 — feat(video): implement real-time caption generation with speech-to-text
 - 2018-07-25 — feat(captioning): implement real-time speech recognition for captions
+- 2018-07-30 — feat(video): implement real-time captioning for live streams
