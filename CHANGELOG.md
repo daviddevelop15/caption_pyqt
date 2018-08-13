@@ -66,3 +66,4 @@
 - 2018-08-02 — feat(captioning): add speech-to-text support for multiple languages
 - 2018-08-07 — feat(video): add speech-to-text support for live captioning feature
 - 2018-08-10 — feat(captioning): add support for additional languages in speech-to-text
+- 2018-08-13 — feat(captioning): add support for multiple audio sources in live captions
