@@ -68,3 +68,4 @@
 - 2018-08-10 — feat(captioning): add support for additional languages in speech-to-text
 - 2018-08-13 — feat(captioning): add support for multiple audio sources in live captions
 - 2018-08-16 — feat: add speech-to-text integration for real-time captioning support
+- 2018-08-20 — feat(captioning): add new speech-to-text model for improved accuracy
