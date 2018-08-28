@@ -71,3 +71,4 @@
 - 2018-08-20 — feat(captioning): add new speech-to-text model for improved accuracy
 - 2018-08-23 — feat(captioning): add speech-to-text support for real-time captions
 - 2018-08-24 — feat(video): add speech-to-text functionality for live captioning
+- 2018-08-28 — feat: implement real-time speech-to-text functionality for captions
