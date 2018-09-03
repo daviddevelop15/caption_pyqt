@@ -74,3 +74,4 @@
 - 2018-08-28 — feat: implement real-time speech-to-text functionality for captions
 - 2018-08-30 — feat(video-captions): add support for multiple language captioning options
 - 2018-08-31 — feat(video): add speech-to-text integration for real-time captioning
+- 2018-09-03 — feat(captioning): implement real-time speech-to-text for live captions
