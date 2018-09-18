@@ -79,3 +79,4 @@
 - 2018-09-10 — feat(video-captioning): add speech-to-text support for live captions
 - 2018-09-12 — feat: add speech-to-text support for English and Spanish languages
 - 2018-09-17 — feat(ui): add customizable font size for subtitles in settings menu
+- 2018-09-18 — feat(captioning): add real-time speech-to-text engine integration
