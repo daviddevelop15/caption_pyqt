@@ -84,3 +84,4 @@
 - 2018-09-25 — feat(video): add support for multi-language speech-to-text processing
 - 2018-09-26 — feat(captioning): implement real-time speech-to-text engine for live feeds
 - 2018-09-27 — feat(video): add speech-to-text support for live captioning feature
+- 2018-10-01 — feat(captioning): add speech-to-text support for multiple languages
