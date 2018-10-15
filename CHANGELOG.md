@@ -88,3 +88,4 @@
 - 2018-10-05 — feat: add real-time language detection for live captioning feature
 - 2018-10-08 — feat(captioning): add support for real-time punctuation in transcriptions
 - 2018-10-12 — feat(timeline): add drag and drop support for editing caption positions
+- 2018-10-15 — feat(captioning): add real-time speech-to-text for live captioning feature
