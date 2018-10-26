@@ -93,3 +93,4 @@
 - 2018-10-19 — feat(video): add support for real-time caption synchronization on timeline
 - 2018-10-22 — feat(video): add speech-to-text integration for real-time captioning
 - 2018-10-25 — feat(captioning): add support for real-time speech-to-text conversion
+- 2018-10-26 — feat(video): add real-time speech-to-text processing for captions
