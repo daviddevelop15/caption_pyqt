@@ -94,3 +94,4 @@
 - 2018-10-22 — feat(video): add speech-to-text integration for real-time captioning
 - 2018-10-25 — feat(captioning): add support for real-time speech-to-text conversion
 - 2018-10-26 — feat(video): add real-time speech-to-text processing for captions
+- 2018-10-29 — feat(captioning): add customizable font sizes for subtitles in settings
