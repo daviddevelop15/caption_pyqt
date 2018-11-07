@@ -98,3 +98,4 @@
 - 2018-10-30 — feat(captioning): implement live speech recognition for better accuracy
 - 2018-10-31 — feat(subtitles): add support for multiple language caption exports
 - 2018-11-05 — feat(api): add speech-to-text support for multiple languages
+- 2018-11-07 — feat(video): add speech-to-text support for live captioning feature
