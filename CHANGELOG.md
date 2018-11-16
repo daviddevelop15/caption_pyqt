@@ -101,3 +101,4 @@
 - 2018-11-07 — feat(video): add speech-to-text support for live captioning feature
 - 2018-11-08 — feat: add speech-to-text functionality for live captioning support
 - 2018-11-13 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2018-11-16 — feat(video): implement real-time speech-to-text captioning feature
