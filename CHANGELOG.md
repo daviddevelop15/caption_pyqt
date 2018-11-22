@@ -104,3 +104,4 @@
 - 2018-11-16 — feat(video): implement real-time speech-to-text captioning feature
 - 2018-11-19 — feat(captioning): add real-time speech-to-text for improved accuracy
 - 2018-11-21 — feat(video): add support for multiple audio tracks in live captioning
+- 2018-11-22 — feat(video): add speech-to-text support for real-time captioning
