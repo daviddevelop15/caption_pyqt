@@ -109,3 +109,4 @@
 - 2018-11-30 — feat(video): add speech-to-text functionality for live captioning
 - 2018-12-04 — feat(timeline): add snapping feature for precise subtitle alignment
 - 2018-12-07 — feat(captions): add support for multi-language subtitle export options
+- 2018-12-10 — feat(video): add automatic speech recognition for live captioning
