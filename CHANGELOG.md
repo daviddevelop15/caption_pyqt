@@ -113,3 +113,4 @@
 - 2018-12-12 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2018-12-14 — feat(captioning): add support for multiple audio sources in transcription
 - 2018-12-17 — feat: add speech-to-text functionality for real-time captioning support
+- 2018-12-18 — feat: add speech-to-text functionality for improved live captioning
