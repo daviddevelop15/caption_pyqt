@@ -120,3 +120,4 @@
 - 2019-01-02 — feat(captioning): add support for real-time speaker identification feature
 - 2019-01-03 — feat(captioning): implement real-time speech-to-text for live sessions
 - 2019-01-07 — feat(video): add real-time audio waveform visualization for captions
+- 2019-01-10 — feat(captioning): add support for multiple languages in speech-to-text engine
