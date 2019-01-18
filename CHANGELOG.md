@@ -122,3 +122,4 @@
 - 2019-01-07 — feat(video): add real-time audio waveform visualization for captions
 - 2019-01-10 — feat(captioning): add support for multiple languages in speech-to-text engine
 - 2019-01-17 — feat(captioning): add real-time speech recognition for captions generation
+- 2019-01-18 — feat(timeline): add visual indicators for subtitle alignment points
