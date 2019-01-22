@@ -124,3 +124,4 @@
 - 2019-01-17 — feat(captioning): add real-time speech recognition for captions generation
 - 2019-01-18 — feat(timeline): add visual indicators for subtitle alignment points
 - 2019-01-21 — feat: add speech-to-text functionality for real-time captioning
+- 2019-01-22 — feat(video): add speech-to-text support for real-time captioning
