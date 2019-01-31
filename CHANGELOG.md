@@ -128,3 +128,4 @@
 - 2019-01-24 — feat(subtitles): add support for exporting captions as SRT files
 - 2019-01-29 — feat(timeline): add draggable markers for precise caption placement
 - 2019-01-30 — feat(captioning): add speech-to-text support for multiple languages
+- 2019-01-31 — feat(ui): add timeline sync feature for better caption alignment
