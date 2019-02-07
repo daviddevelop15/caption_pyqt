@@ -130,3 +130,4 @@
 - 2019-01-30 — feat(captioning): add speech-to-text support for multiple languages
 - 2019-01-31 — feat(ui): add timeline sync feature for better caption alignment
 - 2019-02-05 — feat(video): add real-time speech-to-text support for captions
+- 2019-02-07 — feat: add speech-to-text language selection for improved accuracy
