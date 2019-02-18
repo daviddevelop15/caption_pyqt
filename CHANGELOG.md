@@ -134,3 +134,4 @@
 - 2019-02-12 — feat: add speech-to-text functionality for real-time captioning
 - 2019-02-14 — feat(captioning): add live speech-to-text capability for improved accuracy
 - 2019-02-15 — feat(captioning): integrate advanced speech-to-text engine for improved accuracy
+- 2019-02-18 — feat(video): add support for multiple audio tracks in captioning system
