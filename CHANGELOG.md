@@ -139,3 +139,4 @@
 - 2019-02-22 — feat(captioning): implement real-time speech-to-text for better accuracy
 - 2019-02-27 — feat(captioning): implement real-time speech-to-text functionality
 - 2019-02-28 — feat(video): add speech-to-text integration for live captioning feature
+- 2019-03-04 — feat(video): implement real-time speech-to-text for live captions
