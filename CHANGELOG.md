@@ -141,3 +141,4 @@
 - 2019-02-28 — feat(video): add speech-to-text integration for live captioning feature
 - 2019-03-04 — feat(video): implement real-time speech-to-text for live captions
 - 2019-03-05 — feat: add speech-to-text accuracy settings for better caption alignment
+- 2019-03-08 — feat(timeline): add drag-and-drop functionality for subtitle sync
