@@ -143,3 +143,4 @@
 - 2019-03-05 — feat: add speech-to-text accuracy settings for better caption alignment
 - 2019-03-08 — feat(timeline): add drag-and-drop functionality for subtitle sync
 - 2019-03-13 — feat(captioning): implement real-time speech-to-text processing for captions
+- 2019-03-14 — feat(video): implement speech-to-text for real-time captioning
