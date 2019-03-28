@@ -148,3 +148,4 @@
 - 2019-03-18 — feat(video-captioning): add support for multiple audio tracks in live captions
 - 2019-03-20 — feat: add speech-to-text feature for live video captioning functionality
 - 2019-03-26 — feat(video): add speech-to-text support for real-time captioning
+- 2019-03-28 — feat(captioning): add support for real-time subtitle style customization
