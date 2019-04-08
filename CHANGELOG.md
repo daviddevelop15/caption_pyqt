@@ -152,3 +152,4 @@
 - 2019-04-02 — feat: add speech-to-text functionality for real-time captioning
 - 2019-04-03 — feat(video): add live transcription support for multiple languages
 - 2019-04-05 — feat(video): implement real-time speech-to-text for improved captioning
+- 2019-04-08 — feat(timeline): add draggable markers for easier subtitle syncing
