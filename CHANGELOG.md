@@ -158,3 +158,4 @@
 - 2019-04-16 — feat(subtitles): add timeline sync feature for improved caption accuracy
 - 2019-04-17 — feat(video): add speech-to-text functionality for real-time captions
 - 2019-04-19 — feat(captioning): add support for multiple languages in subtitle editing
+- 2019-04-22 — feat(video): add live captioning support for multiple languages
