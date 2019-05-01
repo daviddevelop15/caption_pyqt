@@ -161,3 +161,4 @@
 - 2019-04-22 — feat(video): add live captioning support for multiple languages
 - 2019-04-24 — feat: add speech-to-text feature for real-time captioning support
 - 2019-04-26 — feat: add support for multiple languages in live captioning feature
+- 2019-05-01 — feat(video): add real-time captioning feature with speech-to-text support
