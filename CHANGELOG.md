@@ -163,3 +163,4 @@
 - 2019-04-26 — feat: add support for multiple languages in live captioning feature
 - 2019-05-01 — feat(video): add real-time captioning feature with speech-to-text support
 - 2019-05-02 — feat(captioning): add support for multiple languages in speech-to-text
+- 2019-05-06 — feat(timeline): add snap-to-grid functionality for better editing precision
