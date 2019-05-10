@@ -165,3 +165,4 @@
 - 2019-05-02 — feat(captioning): add support for multiple languages in speech-to-text
 - 2019-05-06 — feat(timeline): add snap-to-grid functionality for better editing precision
 - 2019-05-09 — feat(video): add real-time speech-to-text functionality for captions
+- 2019-05-10 — feat(transcription): add support for multiple languages in speech-to-text engine
