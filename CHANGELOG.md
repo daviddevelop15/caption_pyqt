@@ -170,3 +170,4 @@
 - 2019-05-15 — feat(timeline): implement draggable captions for better sync adjustments
 - 2019-05-20 — feat(captioning): add speech-to-text functionality for real-time captions
 - 2019-05-21 — feat(video-captions): add real-time caption editing functionality to UI
+- 2019-05-22 — feat(video): add support for multiple languages in captioning feature
