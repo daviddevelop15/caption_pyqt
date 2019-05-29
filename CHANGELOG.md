@@ -172,3 +172,4 @@
 - 2019-05-21 — feat(video-captions): add real-time caption editing functionality to UI
 - 2019-05-22 — feat(video): add support for multiple languages in captioning feature
 - 2019-05-27 — feat(captioning): add support for multiple languages in speech-to-text engine
+- 2019-05-29 — feat(captions): add real-time speech-to-text support for video playback
