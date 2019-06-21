@@ -179,3 +179,4 @@
 - 2019-06-11 — feat: add speech recognition support for multiple languages in captioning
 - 2019-06-13 — feat(captioning): add real-time speech-to-text support for live capture
 - 2019-06-20 — feat(captioning): add support for custom subtitle formatting options
+- 2019-06-21 — feat(video): add speech-to-text functionality for live captions
