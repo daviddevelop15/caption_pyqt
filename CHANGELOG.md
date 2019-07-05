@@ -183,3 +183,4 @@
 - 2019-06-25 — feat(subtitles): add support for multiple language captioning options
 - 2019-06-27 — feat(captions): add support for auto-saving subtitles during editing
 - 2019-07-04 — feat(video): add real-time speech-to-text functionality for captions
+- 2019-07-05 — feat(video): add real-time speech-to-text processing for captions
