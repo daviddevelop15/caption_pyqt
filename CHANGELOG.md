@@ -185,3 +185,4 @@
 - 2019-07-04 — feat(video): add real-time speech-to-text functionality for captions
 - 2019-07-05 — feat(video): add real-time speech-to-text processing for captions
 - 2019-07-10 — feat(captioning): add live speech-to-text processing for improved accuracy
+- 2019-07-11 — feat(captions): add real-time subtitle editing feature for live streams
