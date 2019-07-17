@@ -188,3 +188,4 @@
 - 2019-07-11 — feat(captions): add real-time subtitle editing feature for live streams
 - 2019-07-12 — feat(ui): add live preview for subtitle edits in timeline view
 - 2019-07-16 — feat: add real-time speech-to-text processing for live captioning
+- 2019-07-17 — feat(captions): add support for multiple language subtitle exports
