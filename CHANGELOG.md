@@ -190,3 +190,4 @@
 - 2019-07-16 — feat: add real-time speech-to-text processing for live captioning
 - 2019-07-17 — feat(captions): add support for multiple language subtitle exports
 - 2019-07-22 — feat(ui): add keyboard shortcuts for faster caption editing and navigation
+- 2019-07-23 — feat(subtitles): add support for custom font styles in caption display
