@@ -192,3 +192,4 @@
 - 2019-07-22 — feat(ui): add keyboard shortcuts for faster caption editing and navigation
 - 2019-07-23 — feat(subtitles): add support for custom font styles in caption display
 - 2019-07-26 — feat(captioning): add speech-to-text functionality for improved accuracy
+- 2019-07-29 — feat(captioning): add support for multiple audio sources in live captions
