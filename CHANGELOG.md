@@ -195,3 +195,4 @@
 - 2019-07-29 — feat(captioning): add support for multiple audio sources in live captions
 - 2019-07-31 — feat(captioning): add support for multiple languages in speech-to-text feature
 - 2019-08-05 — feat(timeline): add drag-and-drop support for subtitle adjustments
+- 2019-08-08 — feat(timeline): add drag-and-drop functionality for subtitle adjustments
