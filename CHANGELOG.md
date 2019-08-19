@@ -198,3 +198,4 @@
 - 2019-08-08 — feat(timeline): add drag-and-drop functionality for subtitle adjustments
 - 2019-08-14 — feat(ui): add option to customize subtitle font and size in settings
 - 2019-08-15 — feat(video): add real-time speech-to-text recognition for captions
+- 2019-08-19 — feat(video): implement real-time speech-to-text for live captioning
