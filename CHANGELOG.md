@@ -203,3 +203,4 @@
 - 2019-08-28 — feat(video): add speech-to-text support for live captioning feature
 - 2019-08-29 — feat: add speech-to-text feature for real-time captioning support
 - 2019-08-30 — feat(captioning): integrate new speech-to-text model for improved accuracy
+- 2019-09-03 — feat: add support for exporting subtitles to SRT format
