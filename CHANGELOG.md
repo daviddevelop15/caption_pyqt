@@ -208,3 +208,4 @@
 - 2019-09-06 — feat(captioning): add speech-to-text support for multiple languages
 - 2019-09-09 — feat(subtitles): add support for customizing subtitle font styles
 - 2019-09-10 — feat(video): add real-time captioning feature with speech-to-text support
+- 2019-09-12 — feat(video): add speech-to-text support for real-time captioning
