@@ -210,3 +210,4 @@
 - 2019-09-10 — feat(video): add real-time captioning feature with speech-to-text support
 - 2019-09-12 — feat(video): add speech-to-text support for real-time captioning
 - 2019-09-16 — feat(video): add real-time caption overlay during playback sessions
+- 2019-09-17 — feat(subtitles): add support for custom font sizes in caption editor
