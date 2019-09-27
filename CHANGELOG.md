@@ -213,3 +213,4 @@
 - 2019-09-17 — feat(subtitles): add support for custom font sizes in caption editor
 - 2019-09-25 — feat(video): add speech-to-text functionality for real-time captions
 - 2019-09-26 — feat(video): add support for real-time speech-to-text conversion
+- 2019-09-27 — feat(captioning): add speech-to-text feature for real-time captioning
