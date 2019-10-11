@@ -218,3 +218,4 @@
 - 2019-10-02 — feat(video): add real-time speech-to-text integration for captions
 - 2019-10-04 — feat(captioning): add support for multiple languages in speech-to-text
 - 2019-10-09 — feat(captioning): add support for live translation in video captions
+- 2019-10-11 — feat(captioning): add speech-to-text support for multiple languages
