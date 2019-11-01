@@ -225,3 +225,4 @@
 - 2019-10-22 — feat(video): add support for multiple language captioning options
 - 2019-10-25 — feat: add support for exporting subtitles in SRT format
 - 2019-10-30 — feat: add support for multiple language captioning in text editor
+- 2019-11-01 — feat: add speech-to-text functionality for live video captioning
