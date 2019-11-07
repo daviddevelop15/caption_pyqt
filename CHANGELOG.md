@@ -227,3 +227,4 @@
 - 2019-10-30 — feat: add support for multiple language captioning in text editor
 - 2019-11-01 — feat: add speech-to-text functionality for live video captioning
 - 2019-11-05 — feat(captioning): add support for multiple languages in speech-to-text engine
+- 2019-11-07 — feat: add real-time speech-to-text functionality for live captioning
