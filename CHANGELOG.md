@@ -230,3 +230,4 @@
 - 2019-11-07 — feat: add real-time speech-to-text functionality for live captioning
 - 2019-11-08 — feat: add offline mode for speech-to-text functionality in captioning
 - 2019-11-11 — feat(captioning): add support for custom font styles in caption editor
+- 2019-11-12 — feat(video): add live editing feature for real-time subtitle adjustments
