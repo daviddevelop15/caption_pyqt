@@ -233,3 +233,4 @@
 - 2019-11-12 — feat(video): add live editing feature for real-time subtitle adjustments
 - 2019-11-13 — feat(captioning): integrate automatic language detection for subtitles
 - 2019-11-18 — feat(captioning): add support for multiple language subtitle editing
+- 2019-11-19 — feat(captioning): add support for custom font styles in captions display
