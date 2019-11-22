@@ -234,3 +234,4 @@
 - 2019-11-13 — feat(captioning): integrate automatic language detection for subtitles
 - 2019-11-18 — feat(captioning): add support for multiple language subtitle editing
 - 2019-11-19 — feat(captioning): add support for custom font styles in captions display
+- 2019-11-22 — feat(captioning): add support for user-defined subtitle styles and fonts
