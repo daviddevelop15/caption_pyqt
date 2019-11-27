@@ -237,3 +237,4 @@
 - 2019-11-22 — feat(captioning): add support for user-defined subtitle styles and fonts
 - 2019-11-25 — feat(captions): add support for multi-language subtitle exports
 - 2019-11-26 — feat(captions): implement auto-sync feature for live captions timeline
+- 2019-11-27 — feat: add speech-to-text functionality for live captioning support
