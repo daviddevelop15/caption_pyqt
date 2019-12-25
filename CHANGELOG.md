@@ -245,3 +245,4 @@
 - 2019-12-17 — feat(video-captions): add real-time speech-to-text functionality for live editing
 - 2019-12-18 — feat(video): add speech-to-text integration for real-time captioning
 - 2019-12-20 — feat: add speech-to-text integration for live captioning feature
+- 2019-12-25 — feat(video): add real-time translation feature for live captions
