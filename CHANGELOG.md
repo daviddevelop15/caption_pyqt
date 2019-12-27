@@ -247,3 +247,4 @@
 - 2019-12-20 — feat: add speech-to-text integration for live captioning feature
 - 2019-12-25 — feat(video): add real-time translation feature for live captions
 - 2019-12-26 — feat(video): add real-time speech-to-text processing for captions
+- 2019-12-27 — feat(video): add real-time caption synchronization with audio timeline
