@@ -249,3 +249,4 @@
 - 2019-12-26 — feat(video): add real-time speech-to-text processing for captions
 - 2019-12-27 — feat(video): add real-time caption synchronization with audio timeline
 - 2019-12-30 — feat: add speech recognition support for multiple languages in captioning
+- 2019-12-31 — feat: add speech-to-text model selection for improved accuracy
