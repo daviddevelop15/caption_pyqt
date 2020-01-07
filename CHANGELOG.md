@@ -250,3 +250,4 @@
 - 2019-12-27 — feat(video): add real-time caption synchronization with audio timeline
 - 2019-12-30 — feat: add speech recognition support for multiple languages in captioning
 - 2019-12-31 — feat: add speech-to-text model selection for improved accuracy
+- 2020-01-07 — feat(captioning): add customizable font sizes for live subtitles display
