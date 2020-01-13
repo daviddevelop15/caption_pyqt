@@ -252,3 +252,4 @@
 - 2019-12-31 — feat: add speech-to-text model selection for improved accuracy
 - 2020-01-07 — feat(captioning): add customizable font sizes for live subtitles display
 - 2020-01-08 — feat(captions): add support for multiple languages in speech-to-text engine
+- 2020-01-13 — feat(video): add speech-to-text functionality for real-time captions
