@@ -259,3 +259,4 @@
 - 2020-01-22 — feat(video): add speech-to-text functionality for real-time captions
 - 2020-01-23 — feat(subtitles): add support for editing captions in real-time mode
 - 2020-01-27 — feat(captioning): add live speech recognition support for multiple languages
+- 2020-01-29 — feat(captioning): implement real-time speech-to-text for video captions
