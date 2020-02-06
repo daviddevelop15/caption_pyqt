@@ -262,3 +262,4 @@
 - 2020-01-29 — feat(captioning): implement real-time speech-to-text for video captions
 - 2020-01-31 — feat(timeline): add support for custom subtitle styles in editor
 - 2020-02-03 — feat(captioning): add real-time speech-to-text functionality for captions
+- 2020-02-06 — feat(video): add real-time speech-to-text functionality for captions
