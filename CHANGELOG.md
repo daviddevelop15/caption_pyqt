@@ -265,3 +265,4 @@
 - 2020-02-06 — feat(video): add real-time speech-to-text functionality for captions
 - 2020-02-07 — feat(timeline): add functionality for reordering caption entries via drag-and-drop
 - 2020-02-12 — feat(ui): enhance subtitle editing interface with drag-and-drop support
+- 2020-02-13 — feat(timeline): add draggable markers for improved video sync editing
