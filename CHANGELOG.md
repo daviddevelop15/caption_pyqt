@@ -270,3 +270,4 @@
 - 2020-02-20 — feat(video): add speech-to-text feature for real-time captioning support
 - 2020-02-21 — feat(video): add speech-to-text integration for live captioning support
 - 2020-02-24 — feat(captioning): add support for multiple languages in speech-to-text engine
+- 2020-02-25 — feat(video): add support for real-time language translation in captions
