@@ -272,3 +272,4 @@
 - 2020-02-24 — feat(captioning): add support for multiple languages in speech-to-text engine
 - 2020-02-25 — feat(video): add support for real-time language translation in captions
 - 2020-02-28 — feat: add real-time speech-to-text correction feature for accuracy improvement
+- 2020-03-03 — feat(video-captions): add auto-sync feature for caption timeline adjustments
