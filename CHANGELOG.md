@@ -274,3 +274,4 @@
 - 2020-02-28 — feat: add real-time speech-to-text correction feature for accuracy improvement
 - 2020-03-03 — feat(video-captions): add auto-sync feature for caption timeline adjustments
 - 2020-03-04 — feat(video): add live speech-to-text functionality for real-time captions
+- 2020-03-09 — feat(video): add speech-to-text functionality for live captioning
