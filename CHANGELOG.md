@@ -278,3 +278,4 @@
 - 2020-03-12 — feat: add real-time speech recognition for enhanced live captioning
 - 2020-03-13 — feat(video): add support for multiple audio tracks in captioning module
 - 2020-03-16 — feat(video): add real-time speech-to-text support for live captioning
+- 2020-03-19 — feat: add option to customize subtitle font size in settings panel
