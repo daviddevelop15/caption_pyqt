@@ -281,3 +281,4 @@
 - 2020-03-19 — feat: add option to customize subtitle font size in settings panel
 - 2020-03-23 — feat(timeline): add draggable markers for precise subtitle timing
 - 2020-03-25 — feat(subtitles): add support for custom font styles in subtitle editor
+- 2020-03-31 — feat(timeline): add keyframe markers for precise syncing of captions
