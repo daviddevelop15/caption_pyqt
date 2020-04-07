@@ -283,3 +283,4 @@
 - 2020-03-25 — feat(subtitles): add support for custom font styles in subtitle editor
 - 2020-03-31 — feat(timeline): add keyframe markers for precise syncing of captions
 - 2020-04-03 — feat(video): implement real-time captioning for live streams
+- 2020-04-07 — feat(captioning): add support for multiple languages in speech-to-text functionality
