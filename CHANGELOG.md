@@ -284,3 +284,4 @@
 - 2020-03-31 — feat(timeline): add keyframe markers for precise syncing of captions
 - 2020-04-03 — feat(video): implement real-time captioning for live streams
 - 2020-04-07 — feat(captioning): add support for multiple languages in speech-to-text functionality
+- 2020-04-08 — feat(captioning): add real-time language detection for subtitles generation
