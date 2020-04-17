@@ -288,3 +288,4 @@
 - 2020-04-10 — feat(video): add real-time captioning support for live streams
 - 2020-04-15 — feat(timeline): implement auto-sync for captions during playback
 - 2020-04-16 — feat(video): add support for multiple audio sources in live captioning
+- 2020-04-17 — feat(video): add speech-to-text functionality for real-time captions
