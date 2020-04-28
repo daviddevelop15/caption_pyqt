@@ -292,3 +292,4 @@
 - 2020-04-21 — feat(video-captions): add support for multiple languages in captioning
 - 2020-04-22 — feat(video): add real-time captioning support for live streams
 - 2020-04-23 — feat(video): implement real-time speech-to-text functionality for captions
+- 2020-04-28 — feat(captioning): add support for exporting subtitles as SRT files
