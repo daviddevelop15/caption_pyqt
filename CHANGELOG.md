@@ -297,3 +297,4 @@
 - 2020-05-01 — feat: add new language support for Spanish subtitles in captioning tool
 - 2020-05-05 — feat(captioning): add real-time speech-to-text support for better accuracy
 - 2020-05-06 — feat(captioning): implement real-time speech-to-text for improved accuracy
+- 2020-05-08 — feat: add live speech-to-text feature for improved caption accuracy
