@@ -300,3 +300,4 @@
 - 2020-05-08 — feat: add live speech-to-text feature for improved caption accuracy
 - 2020-05-11 — feat: add speech-to-text functionality for real-time captioning
 - 2020-05-13 — feat(video): add real-time captioning support for live streams
+- 2020-05-20 — feat(captioning): add speech-to-text support for multiple languages
