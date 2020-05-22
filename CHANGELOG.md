@@ -302,3 +302,4 @@
 - 2020-05-13 — feat(video): add real-time captioning support for live streams
 - 2020-05-20 — feat(captioning): add speech-to-text support for multiple languages
 - 2020-05-21 — feat(timeline): implement draggable subtitles for better editing experience
+- 2020-05-22 — feat(video): add speech-to-text enhancements for improved caption accuracy
