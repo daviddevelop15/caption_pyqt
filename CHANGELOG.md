@@ -303,3 +303,4 @@
 - 2020-05-20 — feat(captioning): add speech-to-text support for multiple languages
 - 2020-05-21 — feat(timeline): implement draggable subtitles for better editing experience
 - 2020-05-22 — feat(video): add speech-to-text enhancements for improved caption accuracy
+- 2020-05-26 — feat(video): add real-time speech-to-text integration for captions
