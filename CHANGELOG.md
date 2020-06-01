@@ -306,3 +306,4 @@
 - 2020-05-26 — feat(video): add real-time speech-to-text integration for captions
 - 2020-05-28 — feat(captioning): add support for multi-language subtitles in exports
 - 2020-05-29 — feat(captioning): add support for multiple languages in speech-to-text conversion
+- 2020-06-01 — feat(timeline): add draggable markers for better subtitle syncing
