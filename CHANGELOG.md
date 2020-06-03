@@ -307,3 +307,4 @@
 - 2020-05-28 — feat(captioning): add support for multi-language subtitles in exports
 - 2020-05-29 — feat(captioning): add support for multiple languages in speech-to-text conversion
 - 2020-06-01 — feat(timeline): add draggable markers for better subtitle syncing
+- 2020-06-03 — feat(ui): add live preview feature for real-time caption editing
