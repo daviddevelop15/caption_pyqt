@@ -309,3 +309,4 @@
 - 2020-06-01 — feat(timeline): add draggable markers for better subtitle syncing
 - 2020-06-03 — feat(ui): add live preview feature for real-time caption editing
 - 2020-06-05 — feat: add support for custom subtitle styles in the editor interface
+- 2020-06-08 — feat(captions): add support for custom font selection in subtitle editor
