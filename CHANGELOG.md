@@ -318,3 +318,4 @@
 - 2020-06-26 — feat(timeline): add functionality for adjusting subtitle durations directly
 - 2020-06-30 — feat: add real-time speech-to-text processing for live captioning
 - 2020-07-02 — feat(ui): add timeline drag-and-drop functionality for captions editing
+- 2020-07-06 — feat(video): add support for multiple languages in captioning engine
