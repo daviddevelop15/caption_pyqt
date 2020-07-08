@@ -320,3 +320,4 @@
 - 2020-07-02 — feat(ui): add timeline drag-and-drop functionality for captions editing
 - 2020-07-06 — feat(video): add support for multiple languages in captioning engine
 - 2020-07-07 — feat(captioning): add support for multi-language speech-to-text processing
+- 2020-07-08 — feat(video-captions): add support for real-time subtitle synchronization
