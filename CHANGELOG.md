@@ -321,3 +321,4 @@
 - 2020-07-06 — feat(video): add support for multiple languages in captioning engine
 - 2020-07-07 — feat(captioning): add support for multi-language speech-to-text processing
 - 2020-07-08 — feat(video-captions): add support for real-time subtitle synchronization
+- 2020-07-15 — feat(timeline): add scrubber functionality for easier navigation
