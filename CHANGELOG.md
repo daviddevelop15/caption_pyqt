@@ -326,3 +326,4 @@
 - 2020-07-20 — feat(video-captions): add speech-to-text functionality for live captions
 - 2020-07-22 — feat(video): add speech-to-text feature for real-time captioning
 - 2020-07-29 — feat(video): add speech-to-text functionality for real-time captioning
+- 2020-07-30 — feat(ui): add real-time speech-to-text feature for live captions
