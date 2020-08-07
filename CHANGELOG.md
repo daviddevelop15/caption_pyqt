@@ -330,3 +330,4 @@
 - 2020-07-31 — feat(captioning): add option to customize subtitle font size in settings
 - 2020-08-04 — feat(video): add live speech recognition integration for real-time captions
 - 2020-08-05 — feat(video): add speech-to-text functionality for live captioning
+- 2020-08-07 — feat(captioning): add support for multiple language subtitle export options
