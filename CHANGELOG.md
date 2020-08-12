@@ -332,3 +332,4 @@
 - 2020-08-05 — feat(video): add speech-to-text functionality for live captioning
 - 2020-08-07 — feat(captioning): add support for multiple language subtitle export options
 - 2020-08-10 — feat(timeline): add drag-and-drop functionality for caption adjustments
+- 2020-08-12 — feat: add speech-to-text functionality for real-time captioning support
