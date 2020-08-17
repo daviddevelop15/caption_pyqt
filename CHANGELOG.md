@@ -334,3 +334,4 @@
 - 2020-08-10 — feat(timeline): add drag-and-drop functionality for caption adjustments
 - 2020-08-12 — feat: add speech-to-text functionality for real-time captioning support
 - 2020-08-13 — feat(captions): add support for exporting subtitles in SRT format
+- 2020-08-17 — feat(video-captions): add speech-to-text support for enhanced accuracy
