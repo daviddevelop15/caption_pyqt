@@ -336,3 +336,4 @@
 - 2020-08-13 — feat(captions): add support for exporting subtitles in SRT format
 - 2020-08-17 — feat(video-captions): add speech-to-text support for enhanced accuracy
 - 2020-08-20 — feat: add speech-to-text model selection for improved accuracy
+- 2020-08-25 — feat(video): add real-time captioning support for multiple languages
