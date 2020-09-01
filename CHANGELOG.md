@@ -338,3 +338,4 @@
 - 2020-08-20 — feat: add speech-to-text model selection for improved accuracy
 - 2020-08-25 — feat(video): add real-time captioning support for multiple languages
 - 2020-08-26 — feat(video): add speech-to-text feature for live captioning support
+- 2020-09-01 — feat(captioning): add support for multiple languages in speech-to-text module
