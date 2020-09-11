@@ -343,3 +343,4 @@
 - 2020-09-04 — feat: add speech recognition language selection for better user control
 - 2020-09-08 — feat(video-captions): add real-time speech-to-text functionality for captions
 - 2020-09-10 — feat(captioning): add support for custom subtitle styles and fonts
+- 2020-09-11 — feat(export): add support for exporting subtitles in SRT format
