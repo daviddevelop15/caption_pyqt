@@ -346,3 +346,4 @@
 - 2020-09-11 — feat(export): add support for exporting subtitles in SRT format
 - 2020-09-17 — feat(captioning): add support for multiple languages in speech-to-text engine
 - 2020-09-18 — feat(video): add live speech-to-text functionality for captions
+- 2020-09-21 — feat(ui): implement a new subtitle styling feature for better readability
