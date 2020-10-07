@@ -352,3 +352,4 @@
 - 2020-09-29 — feat(ui): implement user controls for real-time subtitle editing
 - 2020-10-02 — feat: add support for multiple language subtitles in video captioning
 - 2020-10-06 — feat(video): add speech-to-text processing for live captions generation
+- 2020-10-07 — feat: add real-time subtitle editing feature for enhanced usability
