@@ -354,3 +354,4 @@
 - 2020-10-06 — feat(video): add speech-to-text processing for live captions generation
 - 2020-10-07 — feat: add real-time subtitle editing feature for enhanced usability
 - 2020-10-09 — feat(captioning): add support for pause/resume in live captioning flow
+- 2020-10-13 — feat(video): add real-time speech-to-text integration for captions
