@@ -356,3 +356,4 @@
 - 2020-10-09 — feat(captioning): add support for pause/resume in live captioning flow
 - 2020-10-13 — feat(video): add real-time speech-to-text integration for captions
 - 2020-10-16 — feat(video): add real-time speech-to-text functionality for captions
+- 2020-10-22 — feat(video): add live captioning functionality with speech-to-text support
