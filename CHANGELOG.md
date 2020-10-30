@@ -360,3 +360,4 @@
 - 2020-10-23 — feat: implement speech-to-text feature for real-time captioning
 - 2020-10-26 — feat: add real-time collaboration feature for subtitle editing
 - 2020-10-29 — feat(video): add real-time captioning feature for live streams
+- 2020-10-30 — feat(captioning): implement speech-to-text support for multiple languages
