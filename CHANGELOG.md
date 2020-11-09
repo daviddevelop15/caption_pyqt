@@ -363,3 +363,4 @@
 - 2020-10-30 — feat(captioning): implement speech-to-text support for multiple languages
 - 2020-11-04 — feat(video): implement real-time speech detection for captions generation
 - 2020-11-06 — feat(captioning): add live speech-to-text integration for improved accuracy
+- 2020-11-09 — feat: add speech-to-text functionality for real-time captioning
