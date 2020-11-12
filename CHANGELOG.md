@@ -364,3 +364,4 @@
 - 2020-11-04 — feat(video): implement real-time speech detection for captions generation
 - 2020-11-06 — feat(captioning): add live speech-to-text integration for improved accuracy
 - 2020-11-09 — feat: add speech-to-text functionality for real-time captioning
+- 2020-11-12 — feat(video): add support for real-time caption styling options
