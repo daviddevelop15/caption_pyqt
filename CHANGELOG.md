@@ -365,3 +365,4 @@
 - 2020-11-06 — feat(captioning): add live speech-to-text integration for improved accuracy
 - 2020-11-09 — feat: add speech-to-text functionality for real-time captioning
 - 2020-11-12 — feat(video): add support for real-time caption styling options
+- 2020-11-17 — feat(video): add support for multiple audio tracks in live captioning
