@@ -368,3 +368,4 @@
 - 2020-11-17 — feat(video): add support for multiple audio tracks in live captioning
 - 2020-11-18 — feat(timeline): add support for multi-track subtitle synchronization
 - 2020-11-19 — feat(video): add real-time caption synchronization for live streaming
+- 2020-11-23 — feat(timeline): add draggable markers for easier subtitle syncing
