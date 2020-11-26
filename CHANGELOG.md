@@ -370,3 +370,4 @@
 - 2020-11-19 — feat(video): add real-time caption synchronization for live streaming
 - 2020-11-23 — feat(timeline): add draggable markers for easier subtitle syncing
 - 2020-11-25 — feat(video): add support for custom subtitle styles in editor
+- 2020-11-26 — feat(captioning): add support for multiple languages in speech-to-text engine
