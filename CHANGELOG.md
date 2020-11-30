@@ -371,3 +371,4 @@
 - 2020-11-23 — feat(timeline): add draggable markers for easier subtitle syncing
 - 2020-11-25 — feat(video): add support for custom subtitle styles in editor
 - 2020-11-26 — feat(captioning): add support for multiple languages in speech-to-text engine
+- 2020-11-30 — feat(timeline): add draggable elements for better subtitle synchronization
