@@ -373,3 +373,4 @@
 - 2020-11-26 — feat(captioning): add support for multiple languages in speech-to-text engine
 - 2020-11-30 — feat(timeline): add draggable elements for better subtitle synchronization
 - 2020-12-02 — feat(video): implement real-time caption synchronization with timeline
+- 2020-12-04 — feat(video): add speech-to-text integration for live captioning feature
