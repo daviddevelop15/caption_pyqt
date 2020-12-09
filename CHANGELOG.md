@@ -375,3 +375,4 @@
 - 2020-12-02 — feat(video): implement real-time caption synchronization with timeline
 - 2020-12-04 — feat(video): add speech-to-text integration for live captioning feature
 - 2020-12-07 — feat(video): implement real-time captioning for live streams
+- 2020-12-09 — feat(video): add speech-to-text integration for live captioning
