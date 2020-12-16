@@ -377,3 +377,4 @@
 - 2020-12-07 — feat(video): implement real-time captioning for live streams
 - 2020-12-09 — feat(video): add speech-to-text integration for live captioning
 - 2020-12-14 — feat: add support for exporting subtitles in SRT format
+- 2020-12-16 — feat(video): add speech-to-text functionality for live captioning
