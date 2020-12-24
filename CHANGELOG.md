@@ -379,3 +379,4 @@
 - 2020-12-14 — feat: add support for exporting subtitles in SRT format
 - 2020-12-16 — feat(video): add speech-to-text functionality for live captioning
 - 2020-12-21 — feat(video): add real-time speech-to-text processing for captions
+- 2020-12-24 — feat(captioning): add live preview feature for subtitle editing interface
