@@ -381,3 +381,4 @@
 - 2020-12-21 — feat(video): add real-time speech-to-text processing for captions
 - 2020-12-24 — feat(captioning): add live preview feature for subtitle editing interface
 - 2020-12-25 — feat: implement timeline sync feature for improved subtitle editing
+- 2020-12-29 — feat(captioning): add support for multi-language subtitle editing option
