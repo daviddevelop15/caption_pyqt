@@ -385,3 +385,4 @@
 - 2021-01-01 — feat(timeline): add keyframe support for more precise caption timing
 - 2021-01-04 — feat(captioning): add support for multiple languages in live captions
 - 2021-01-05 — feat(timeline): implement auto-sync feature for speech recognition output
+- 2021-01-08 — feat(captioning): add support for multiple languages in speech-to-text engine
