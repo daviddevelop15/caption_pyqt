@@ -387,3 +387,4 @@
 - 2021-01-05 — feat(timeline): implement auto-sync feature for speech recognition output
 - 2021-01-08 — feat(captioning): add support for multiple languages in speech-to-text engine
 - 2021-01-12 — feat(captioning): add speech-to-text integration for real-time subtitles
+- 2021-01-13 — feat: add support for custom subtitle fonts in the editor settings
