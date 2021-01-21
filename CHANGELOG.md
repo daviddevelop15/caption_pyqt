@@ -390,3 +390,4 @@
 - 2021-01-13 — feat: add support for custom subtitle fonts in the editor settings
 - 2021-01-14 — feat(video): add background color customization for caption display
 - 2021-01-19 — feat(video): add support for customizable subtitle formats on export
+- 2021-01-21 — feat(captioning): add speech-to-text integration for real-time captions
