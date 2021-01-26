@@ -392,3 +392,4 @@
 - 2021-01-19 — feat(video): add support for customizable subtitle formats on export
 - 2021-01-21 — feat(captioning): add speech-to-text integration for real-time captions
 - 2021-01-22 — feat: add timeline sync feature for improved subtitle adjustments
+- 2021-01-26 — feat(video): add speech-to-text support for live captioning functionality
