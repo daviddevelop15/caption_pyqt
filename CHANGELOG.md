@@ -393,3 +393,4 @@
 - 2021-01-21 — feat(captioning): add speech-to-text integration for real-time captions
 - 2021-01-22 — feat: add timeline sync feature for improved subtitle adjustments
 - 2021-01-26 — feat(video): add speech-to-text support for live captioning functionality
+- 2021-01-27 — feat(captioning): add support for real-time speaker identification in captions
