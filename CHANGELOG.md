@@ -396,3 +396,4 @@
 - 2021-01-27 — feat(captioning): add support for real-time speaker identification in captions
 - 2021-01-29 — feat(subtitles): add auto-sync feature for caption timelines during playback
 - 2021-02-02 — feat(captioning): add support for multiple languages in live captioning
+- 2021-02-04 — feat(captioning): add support for multiple language subtitles in export function
