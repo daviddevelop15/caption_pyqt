@@ -397,3 +397,4 @@
 - 2021-01-29 — feat(subtitles): add auto-sync feature for caption timelines during playback
 - 2021-02-02 — feat(captioning): add support for multiple languages in live captioning
 - 2021-02-04 — feat(captioning): add support for multiple language subtitles in export function
+- 2021-02-05 — feat: add support for exporting subtitles in SRT format for users
