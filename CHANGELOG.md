@@ -401,3 +401,4 @@
 - 2021-02-09 — feat: add real-time speech-to-text for enhanced captioning accuracy
 - 2021-02-11 — feat(video): add real-time captioning support for video playback
 - 2021-02-15 — feat(captioning): add support for multiple languages in speech-to-text processing
+- 2021-02-16 — feat(video): add real-time speech-to-text functionality for captions
