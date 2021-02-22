@@ -403,3 +403,4 @@
 - 2021-02-15 — feat(captioning): add support for multiple languages in speech-to-text processing
 - 2021-02-16 — feat(video): add real-time speech-to-text functionality for captions
 - 2021-02-18 — feat(captioning): add support for custom font selection in subtitles
+- 2021-02-22 — feat(video): add speech-to-text support for real-time captioning
