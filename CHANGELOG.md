@@ -405,3 +405,4 @@
 - 2021-02-18 — feat(captioning): add support for custom font selection in subtitles
 - 2021-02-22 — feat(video): add speech-to-text support for real-time captioning
 - 2021-02-24 — feat(timeline): add adjustable speed control for subtitle playback
+- 2021-03-01 — feat(video): add speech-to-text functionality for live captioning
