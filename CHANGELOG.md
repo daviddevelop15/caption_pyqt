@@ -406,3 +406,4 @@
 - 2021-02-22 — feat(video): add speech-to-text support for real-time captioning
 - 2021-02-24 — feat(timeline): add adjustable speed control for subtitle playback
 - 2021-03-01 — feat(video): add speech-to-text functionality for live captioning
+- 2021-03-04 — feat(video): add support for exporting captions in SRT format
