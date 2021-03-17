@@ -411,3 +411,4 @@
 - 2021-03-08 — feat(video): add speech-to-text functionality for live captioning
 - 2021-03-12 — feat(video): add support for multiple audio inputs in live captioning
 - 2021-03-15 — feat(captioning): add support for multiple languages in speech-to-text feature
+- 2021-03-17 — feat(video-captions): add support for real-time speech-to-text transcription
