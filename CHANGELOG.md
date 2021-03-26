@@ -415,3 +415,4 @@
 - 2021-03-18 — feat(video): add support for multi-language subtitle editing feature
 - 2021-03-24 — feat(video): add speech-to-text functionality for live captioning
 - 2021-03-25 — feat(captioning): add support for multiple audio tracks in live captions
+- 2021-03-26 — feat: add speech-to-text support for real-time captioning adjustments
