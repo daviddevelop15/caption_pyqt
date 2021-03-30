@@ -417,3 +417,4 @@
 - 2021-03-25 — feat(captioning): add support for multiple audio tracks in live captions
 - 2021-03-26 — feat: add speech-to-text support for real-time captioning adjustments
 - 2021-03-29 — feat(timeline): add draggable markers for improved caption syncing
+- 2021-03-30 — feat(captioning): add real-time speech-to-text functionality for live video
