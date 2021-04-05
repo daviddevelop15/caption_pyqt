@@ -419,3 +419,4 @@
 - 2021-03-29 — feat(timeline): add draggable markers for improved caption syncing
 - 2021-03-30 — feat(captioning): add real-time speech-to-text functionality for live video
 - 2021-04-01 — feat(ui): add live preview for edited captions in the timeline view
+- 2021-04-05 — feat(video): add real-time captioning with speech-to-text integration
