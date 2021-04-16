@@ -423,3 +423,4 @@
 - 2021-04-07 — feat(video-captions): add auto-sync feature for live transcription timelines
 - 2021-04-08 — feat(captions): add speech-to-text functionality for live video input
 - 2021-04-14 — feat(captioning): add support for custom subtitle styles in editor
+- 2021-04-16 — feat(video): add real-time text overlay for improved captioning experience
