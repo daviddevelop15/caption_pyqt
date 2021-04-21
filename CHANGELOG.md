@@ -425,3 +425,4 @@
 - 2021-04-14 — feat(captioning): add support for custom subtitle styles in editor
 - 2021-04-16 — feat(video): add real-time text overlay for improved captioning experience
 - 2021-04-19 — feat(captioning): implement real-time speech-to-text for live captions
+- 2021-04-21 — feat(video): add live speech-to-text functionality for captioning
