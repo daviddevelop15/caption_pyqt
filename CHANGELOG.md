@@ -429,3 +429,4 @@
 - 2021-04-23 — feat(timeline): add functionality for precise subtitle syncing adjustments
 - 2021-04-26 — feat(video): add support for automatic language detection in captions
 - 2021-04-27 — feat(captioning): add support for multiple languages in speech-to-text system
+- 2021-05-03 — feat(captioning): add support for custom subtitle styles in editor
