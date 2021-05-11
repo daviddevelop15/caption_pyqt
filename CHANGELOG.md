@@ -431,3 +431,4 @@
 - 2021-04-27 — feat(captioning): add support for multiple languages in speech-to-text system
 - 2021-05-03 — feat(captioning): add support for custom subtitle styles in editor
 - 2021-05-05 — feat(captions): add live speech recognition for improved caption accuracy
+- 2021-05-11 — feat: add support for multiple language captions in video export
