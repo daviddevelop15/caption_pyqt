@@ -433,3 +433,4 @@
 - 2021-05-05 — feat(captions): add live speech recognition for improved caption accuracy
 - 2021-05-11 — feat: add support for multiple language captions in video export
 - 2021-05-12 — feat(video-sync): add timeline synchronization feature for caption edits
+- 2021-05-13 — feat: add support for exporting subtitles in multiple formats
