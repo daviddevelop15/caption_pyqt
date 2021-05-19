@@ -435,3 +435,4 @@
 - 2021-05-12 — feat(video-sync): add timeline synchronization feature for caption edits
 - 2021-05-13 — feat: add support for exporting subtitles in multiple formats
 - 2021-05-18 — feat(captioning): add support for multiple language subtitles in exports
+- 2021-05-19 — feat(timeline): add draggable markers for precise subtitle placement
