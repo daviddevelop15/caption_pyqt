@@ -437,3 +437,4 @@
 - 2021-05-18 — feat(captioning): add support for multiple language subtitles in exports
 - 2021-05-19 — feat(timeline): add draggable markers for precise subtitle placement
 - 2021-05-21 — feat(captioning): add speech-to-text functionality for real-time captions
+- 2021-05-25 — feat(subtitles): add support for custom font styles in captions display
