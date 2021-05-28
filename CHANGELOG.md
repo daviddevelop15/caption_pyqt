@@ -439,3 +439,4 @@
 - 2021-05-21 — feat(captioning): add speech-to-text functionality for real-time captions
 - 2021-05-25 — feat(subtitles): add support for custom font styles in captions display
 - 2021-05-27 — feat(timeline): add draggable markers for precise subtitle syncing
+- 2021-05-28 — feat(captions): add auto-synchronization for live captioning timeline
