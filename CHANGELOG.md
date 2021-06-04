@@ -442,3 +442,4 @@
 - 2021-05-28 — feat(captions): add auto-synchronization for live captioning timeline
 - 2021-06-01 — feat(ui): add live captioning toggle button to main interface
 - 2021-06-03 — feat(captioning): add support for multiple audio input sources in live captions
+- 2021-06-04 — feat(captioning): add real-time speech-to-text for live captioning feature
