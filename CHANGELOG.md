@@ -448,3 +448,4 @@
 - 2021-06-14 — feat: add speech-to-text support for live video captioning feature
 - 2021-06-15 — feat: add speech-to-text support for multiple languages in captioning module
 - 2021-06-22 — feat: add speech-to-text integration for live video captioning functionality
+- 2021-06-23 — feat(captioning): add support for multiple languages in speech-to-text logic
