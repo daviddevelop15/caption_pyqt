@@ -451,3 +451,4 @@
 - 2021-06-23 — feat(captioning): add support for multiple languages in speech-to-text logic
 - 2021-06-25 — feat(captioning): add timeline sync feature for live video editing
 - 2021-06-28 — feat(video): add speech-to-text functionality for improved captions
+- 2021-06-30 — feat(captioning): add support for multiple language subtitles in editor
