@@ -453,3 +453,4 @@
 - 2021-06-28 — feat(video): add speech-to-text functionality for improved captions
 - 2021-06-30 — feat(captioning): add support for multiple language subtitles in editor
 - 2021-07-02 — feat(video): add speech-to-text functionality for real-time captioning
+- 2021-07-05 — feat: add real-time speech-to-text functionality for better captioning
