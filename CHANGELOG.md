@@ -458,3 +458,4 @@
 - 2021-07-13 — feat(video): add real-time caption sync for live streaming sessions
 - 2021-07-14 — feat(captioning): add support for multiple audio tracks in subtitle sync
 - 2021-07-16 — feat(captioning): add support for customizable subtitle background color
+- 2021-07-21 — feat(captioning): implement real-time speech-to-text for live captions
