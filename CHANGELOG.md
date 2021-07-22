@@ -459,3 +459,4 @@
 - 2021-07-14 — feat(captioning): add support for multiple audio tracks in subtitle sync
 - 2021-07-16 — feat(captioning): add support for customizable subtitle background color
 - 2021-07-21 — feat(captioning): implement real-time speech-to-text for live captions
+- 2021-07-22 — feat(video): add live speech-to-text processing for improved accuracy
