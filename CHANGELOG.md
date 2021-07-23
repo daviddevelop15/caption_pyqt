@@ -460,3 +460,4 @@
 - 2021-07-16 — feat(captioning): add support for customizable subtitle background color
 - 2021-07-21 — feat(captioning): implement real-time speech-to-text for live captions
 - 2021-07-22 — feat(video): add live speech-to-text processing for improved accuracy
+- 2021-07-23 — feat(captioning): add real-time speech-to-text functionality for captions
