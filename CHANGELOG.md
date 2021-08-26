@@ -469,3 +469,4 @@
 - 2021-08-11 — feat(video): add real-time caption synchronization for live streams
 - 2021-08-17 — feat(video): add speech-to-text functionality for real-time captions
 - 2021-08-19 — feat(captioning): add customizable font styles for subtitles in settings
+- 2021-08-26 — feat(captions): add live captioning feature with speech-to-text support
