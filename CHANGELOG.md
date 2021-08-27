@@ -470,3 +470,4 @@
 - 2021-08-17 — feat(video): add speech-to-text functionality for real-time captions
 - 2021-08-19 — feat(captioning): add customizable font styles for subtitles in settings
 - 2021-08-26 — feat(captions): add live captioning feature with speech-to-text support
+- 2021-08-27 — feat(captioning): add support for custom subtitle styles in editor
