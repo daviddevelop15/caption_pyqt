@@ -480,3 +480,4 @@
 - 2021-09-17 — feat(video): add support for exporting captions in SRT format
 - 2021-09-20 — feat(captions): add speech-to-text integration for real-time captioning
 - 2021-09-21 — feat(captioning): add speech-to-text support for real-time captions
+- 2021-09-22 — feat(timeline): add functionality to adjust caption timing manually
