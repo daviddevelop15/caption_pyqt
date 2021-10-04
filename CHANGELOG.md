@@ -483,3 +483,4 @@
 - 2021-09-22 — feat(timeline): add functionality to adjust caption timing manually
 - 2021-09-27 — feat(captioning): implement real-time language detection for captions
 - 2021-09-28 — feat(captioning): add support for custom font sizes in subtitle editor
+- 2021-10-04 — feat(video-captions): add support for multiple language captions in export
