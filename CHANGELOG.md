@@ -485,3 +485,4 @@
 - 2021-09-28 — feat(captioning): add support for custom font sizes in subtitle editor
 - 2021-10-04 — feat(video-captions): add support for multiple language captions in export
 - 2021-10-08 — feat(captioning): add customizable subtitle font size and style options
+- 2021-10-14 — feat(video-captions): add auto-sync feature for subtitles and timeline
