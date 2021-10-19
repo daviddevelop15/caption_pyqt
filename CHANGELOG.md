@@ -488,3 +488,4 @@
 - 2021-10-14 — feat(video-captions): add auto-sync feature for subtitles and timeline
 - 2021-10-15 — feat(timeline): add drag-and-drop support for subtitle items
 - 2021-10-18 — feat(captioning): add speech-to-text support for multiple languages
+- 2021-10-19 — feat(captions): add support for multiple language subtitle exports
