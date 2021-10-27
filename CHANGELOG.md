@@ -490,3 +490,4 @@
 - 2021-10-18 — feat(captioning): add speech-to-text support for multiple languages
 - 2021-10-19 — feat(captions): add support for multiple language subtitle exports
 - 2021-10-25 — feat: add export functionality for subtitles in SRT format
+- 2021-10-27 — feat(video): add support for real-time captioning during live streams
