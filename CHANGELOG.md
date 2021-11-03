@@ -492,3 +492,4 @@
 - 2021-10-25 — feat: add export functionality for subtitles in SRT format
 - 2021-10-27 — feat(video): add support for real-time captioning during live streams
 - 2021-11-01 — feat(timeline): add draggable markers for precise sync adjustments
+- 2021-11-03 — feat(subtitles): add gesture support for timeline navigation in captions
