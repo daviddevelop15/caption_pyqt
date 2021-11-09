@@ -494,3 +494,4 @@
 - 2021-11-01 — feat(timeline): add draggable markers for precise sync adjustments
 - 2021-11-03 — feat(subtitles): add gesture support for timeline navigation in captions
 - 2021-11-04 — feat: add real-time subtitle preview feature to main editing interface
+- 2021-11-09 — feat: add speech-to-text integration for real-time captioning support
