@@ -498,3 +498,4 @@
 - 2021-11-10 — feat(video): add real-time speech-to-text processing for captions
 - 2021-11-11 — feat(ui): add live preview feature for subtitle editing interface
 - 2021-11-15 — feat(video): add speech-to-text functionality for live captioning
+- 2021-11-16 — feat(captioning): implement real-time speech-to-text for live video streaming
