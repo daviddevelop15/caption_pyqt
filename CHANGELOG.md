@@ -500,3 +500,4 @@
 - 2021-11-15 — feat(video): add speech-to-text functionality for live captioning
 - 2021-11-16 — feat(captioning): implement real-time speech-to-text for live video streaming
 - 2021-11-17 — feat(video): add speech-to-text model for improved caption accuracy
+- 2021-11-22 — feat(captioning): implement real-time speech-to-text for live captions
