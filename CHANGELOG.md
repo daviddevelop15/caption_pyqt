@@ -503,3 +503,4 @@
 - 2021-11-22 — feat(captioning): implement real-time speech-to-text for live captions
 - 2021-11-24 — feat(captioning): add support for multiple audio tracks in captioning tool
 - 2021-11-25 — feat(video): add real-time speech-to-text integration for captions
+- 2021-11-29 — feat: add live speech recognition support for improved captioning accuracy
