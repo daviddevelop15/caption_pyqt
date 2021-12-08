@@ -506,3 +506,4 @@
 - 2021-11-29 — feat: add live speech recognition support for improved captioning accuracy
 - 2021-11-30 — feat: add real-time speech recognition for live captioning functionality
 - 2021-12-06 — feat(video): add real-time speech-to-text processing for captions
+- 2021-12-08 — feat(video): implement live captioning for real-time speech recognition
