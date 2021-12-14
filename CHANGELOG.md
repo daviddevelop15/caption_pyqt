@@ -508,3 +508,4 @@
 - 2021-12-06 — feat(video): add real-time speech-to-text processing for captions
 - 2021-12-08 — feat(video): implement live captioning for real-time speech recognition
 - 2021-12-13 — feat(subtitles): add auto-sync feature for improved timeline accuracy
+- 2021-12-14 — feat(captions): add support for exporting captions in SRT format
