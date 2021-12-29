@@ -512,3 +512,4 @@
 - 2021-12-15 — feat(captioning): add speech-to-text support for multiple languages
 - 2021-12-20 — feat: add speech-to-text integration for real-time captioning support
 - 2021-12-22 — feat(video-captions): add support for multiple subtitle formats on export
+- 2021-12-29 — feat(video): add speech-to-text support for live captioning feature
