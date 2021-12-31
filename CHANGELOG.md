@@ -514,3 +514,4 @@
 - 2021-12-22 — feat(video-captions): add support for multiple subtitle formats on export
 - 2021-12-29 — feat(video): add speech-to-text support for live captioning feature
 - 2021-12-30 — feat(video): add real-time captioning feature with speech recognition support
+- 2021-12-31 — feat(video): add support for custom subtitle export formats
