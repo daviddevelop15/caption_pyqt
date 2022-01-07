@@ -517,3 +517,4 @@
 - 2021-12-31 — feat(video): add support for custom subtitle export formats
 - 2022-01-04 — feat(video): integrate speech-to-text API for improved caption accuracy
 - 2022-01-05 — feat(captioning): add support for multiple languages in speech-to-text engine
+- 2022-01-07 — feat: add support for exporting subtitles in SRT format
