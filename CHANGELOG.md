@@ -521,3 +521,4 @@
 - 2022-01-10 — feat: implement speech-to-text functionality for live captioning
 - 2022-01-11 — feat(video): add speech-to-text functionality for real-time captions
 - 2022-01-17 — feat(captioning): add support for multiple languages in speech-to-text feature
+- 2022-01-18 — feat(captioning): add support for real-time speaker identification in captions
