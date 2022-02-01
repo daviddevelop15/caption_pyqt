@@ -525,3 +525,4 @@
 - 2022-01-21 — feat(captioning): add support for custom font styles in subtitles editor
 - 2022-01-25 — feat(captioning): add support for exporting captions in SRT format
 - 2022-01-28 — feat(captioning): add support for custom font styles in subtitle editor
+- 2022-02-01 — feat(video): add support for real-time captioning during live streams
