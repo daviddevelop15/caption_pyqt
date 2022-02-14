@@ -529,3 +529,4 @@
 - 2022-02-03 — feat(video): implement real-time speech-to-text functionality for captions
 - 2022-02-10 — feat(video): add real-time language detection for captioning feature
 - 2022-02-11 — feat: add support for exporting subtitles in SRT and VTT formats
+- 2022-02-14 — feat(captions): add support for multiple languages in subtitle export
