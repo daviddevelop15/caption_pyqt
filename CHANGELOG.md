@@ -531,3 +531,4 @@
 - 2022-02-11 — feat: add support for exporting subtitles in SRT and VTT formats
 - 2022-02-14 — feat(captions): add support for multiple languages in subtitle export
 - 2022-02-16 — feat(captioning): add support for custom subtitle styles and colors
+- 2022-02-23 — feat(video): add speech-to-text feature for live captioning support
