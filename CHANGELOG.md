@@ -532,3 +532,4 @@
 - 2022-02-14 — feat(captions): add support for multiple languages in subtitle export
 - 2022-02-16 — feat(captioning): add support for custom subtitle styles and colors
 - 2022-02-23 — feat(video): add speech-to-text feature for live captioning support
+- 2022-02-25 — feat: add speech-to-text support for real-time captioning display
