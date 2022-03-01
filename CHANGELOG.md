@@ -533,3 +533,4 @@
 - 2022-02-16 — feat(captioning): add support for custom subtitle styles and colors
 - 2022-02-23 — feat(video): add speech-to-text feature for live captioning support
 - 2022-02-25 — feat: add speech-to-text support for real-time captioning display
+- 2022-03-01 — feat(video): add speech-to-text accuracy improvements for captions
