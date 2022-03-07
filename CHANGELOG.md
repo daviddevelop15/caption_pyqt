@@ -536,3 +536,4 @@
 - 2022-03-01 — feat(video): add speech-to-text accuracy improvements for captions
 - 2022-03-02 — feat(subtitle): add real-time speech-to-text functionality for captions
 - 2022-03-03 — feat(captioning): add ability to customize subtitle font size and style
+- 2022-03-07 — feat(captioning): add support for custom subtitle file formats during export
