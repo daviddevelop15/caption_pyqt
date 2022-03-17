@@ -539,3 +539,4 @@
 - 2022-03-07 — feat(captioning): add support for custom subtitle file formats during export
 - 2022-03-10 — feat(timeline): add draggable markers for precise subtitle syncing
 - 2022-03-15 — feat(video): add real-time captions support for multiple languages
+- 2022-03-17 — feat(video): add real-time speech-to-text functionality for captions
