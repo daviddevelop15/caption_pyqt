@@ -542,3 +542,4 @@
 - 2022-03-17 — feat(video): add real-time speech-to-text functionality for captions
 - 2022-03-21 — feat(captioning): add speech-to-text support for multiple languages
 - 2022-03-23 — feat(video-captions): add support for real-time caption formatting options
+- 2022-03-28 — feat(video): implement real-time speech-to-text for live captioning
