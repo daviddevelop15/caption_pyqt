@@ -545,3 +545,4 @@
 - 2022-03-28 — feat(video): implement real-time speech-to-text for live captioning
 - 2022-03-31 — feat(captions): implement real-time speech-to-text for live video streams
 - 2022-04-04 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2022-04-07 — feat(captioning): add support for multiple audio sources in live captioning
