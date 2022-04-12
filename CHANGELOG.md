@@ -547,3 +547,4 @@
 - 2022-04-04 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2022-04-07 — feat(captioning): add support for multiple audio sources in live captioning
 - 2022-04-11 — feat(captioning): add speech-to-text support for multiple languages
+- 2022-04-12 — feat: add speech-to-text functionality for real-time captioning
