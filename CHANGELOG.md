@@ -552,3 +552,4 @@
 - 2022-04-19 — feat(captioning): add support for real-time punctuation in captions
 - 2022-04-21 — feat(video-captions): add speech-to-text support for live captioning
 - 2022-04-26 — feat(video): add support for real-time translation in captions
+- 2022-04-29 — feat(captioning): add support for multiple language subtitles in editor
