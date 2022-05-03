@@ -554,3 +554,4 @@
 - 2022-04-26 — feat(video): add support for real-time translation in captions
 - 2022-04-29 — feat(captioning): add support for multiple language subtitles in editor
 - 2022-05-02 — feat: add speech-to-text support for live video captioning feature
+- 2022-05-03 — feat(video): add support for dynamic subtitles during playback sessions
