@@ -562,3 +562,4 @@
 - 2022-05-20 — feat: implement real-time speech-to-text processing for live captions
 - 2022-05-24 — feat(captioning): add support for custom subtitle styles in editor
 - 2022-05-26 — feat(video): implement real-time speech-to-text for improved captioning
+- 2022-05-27 — feat(video): add speech-to-text support for live captioning feature
