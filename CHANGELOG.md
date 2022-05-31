@@ -564,3 +564,4 @@
 - 2022-05-26 — feat(video): implement real-time speech-to-text for improved captioning
 - 2022-05-27 — feat(video): add speech-to-text support for live captioning feature
 - 2022-05-30 — feat(video): add speech-to-text feature for live captioning support
+- 2022-05-31 — feat(video): add support for real-time speech-to-text processing
