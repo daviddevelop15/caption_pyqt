@@ -567,3 +567,4 @@
 - 2022-05-31 — feat(video): add support for real-time speech-to-text processing
 - 2022-06-03 — feat(video): implement live speech-to-text functionality for captioning
 - 2022-06-06 — feat(captioning): implement real-time auto-sync for subtitles based on speech-to-text
+- 2022-06-07 — feat(export): add support for exporting captions in SRT format
