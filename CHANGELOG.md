@@ -570,3 +570,4 @@
 - 2022-06-07 — feat(export): add support for exporting captions in SRT format
 - 2022-06-09 — feat(captioning): add support for real-time language translation in captions
 - 2022-06-13 — feat(video): add real-time speech-to-text processing for captions
+- 2022-06-15 — feat(captioning): add support for exporting subtitles in SRT format
