@@ -573,3 +573,4 @@
 - 2022-06-15 — feat(captioning): add support for exporting subtitles in SRT format
 - 2022-06-20 — feat(video): add real-time captioning support for live streams
 - 2022-06-22 — feat(captioning): add speech-to-text feature for real-time captioning
+- 2022-06-23 — feat: add voice recognition toggle for improved captioning accuracy
