@@ -574,3 +574,4 @@
 - 2022-06-20 — feat(video): add real-time captioning support for live streams
 - 2022-06-22 — feat(captioning): add speech-to-text feature for real-time captioning
 - 2022-06-23 — feat: add voice recognition toggle for improved captioning accuracy
+- 2022-06-29 — feat(video): add speech-to-text functionality for live captioning
