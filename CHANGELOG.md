@@ -579,3 +579,4 @@
 - 2022-07-04 — feat(captioning): add support for multiple language options in subtitles
 - 2022-07-05 — feat(video-sync): add real-time timeline synchronization for captions
 - 2022-07-06 — feat: add live speech-to-text processing for real-time captioning
+- 2022-07-13 — feat(captioning): add support for multiple language recognition in subtitles
