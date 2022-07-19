@@ -582,3 +582,4 @@
 - 2022-07-13 — feat(captioning): add support for multiple language recognition in subtitles
 - 2022-07-14 — feat(video): add support for exporting subtitles in SRT format
 - 2022-07-15 — feat(captioning): add support for customizable subtitle styles and fonts
+- 2022-07-19 — feat(captioning): add speech-to-text capability for live video input
