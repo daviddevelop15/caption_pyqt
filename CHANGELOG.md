@@ -585,3 +585,4 @@
 - 2022-07-19 — feat(captioning): add speech-to-text capability for live video input
 - 2022-07-21 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2022-07-22 — feat(timeline): add functionality for manual subtitle adjustments
+- 2022-07-25 — feat(video-captions): add support for real-time speech-to-text processing
