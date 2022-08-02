@@ -588,3 +588,4 @@
 - 2022-07-25 — feat(video-captions): add support for real-time speech-to-text processing
 - 2022-07-28 — feat: add live captioning feature with real-time speech-to-text support
 - 2022-07-29 — feat(video-captions): add speech-to-text support for live captions
+- 2022-08-02 — feat(video): add support for real-time subtitle styling options
