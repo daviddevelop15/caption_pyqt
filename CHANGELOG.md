@@ -592,3 +592,4 @@
 - 2022-08-04 — feat(captioning): add real-time speech recognition support for live captions
 - 2022-08-08 — feat(video): add speech-to-text support for real-time captioning
 - 2022-08-09 — feat(video): integrate automatic timeline syncing for captions
+- 2022-08-12 — feat(captioning): implement auto-sync feature for real-time captions
