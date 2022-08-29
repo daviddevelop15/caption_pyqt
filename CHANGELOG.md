@@ -598,3 +598,4 @@
 - 2022-08-18 — feat(video): add support for real-time audio processing in captions
 - 2022-08-22 — feat(video): implement real-time captioning for live video streams
 - 2022-08-25 — feat(captioning): add real-time speech-to-text processing for live events
+- 2022-08-29 — feat(captioning): implement real-time speech recognition for live captions
