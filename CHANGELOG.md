@@ -601,3 +601,4 @@
 - 2022-08-29 — feat(captioning): implement real-time speech recognition for live captions
 - 2022-09-01 — feat(captioning): add support for multiple audio tracks in live captions
 - 2022-09-06 — feat: add live translation feature in the captioning module
+- 2022-09-08 — feat(video): add real-time speech-to-text functionality for captions
