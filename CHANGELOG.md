@@ -607,3 +607,4 @@
 - 2022-09-16 — feat(video): add speech-to-text functionality for live captioning
 - 2022-09-19 — feat(video-captions): add real-time speech-to-text functionality for live captioning
 - 2022-09-20 — feat(captioning): add support for multiple language subtitles in editor
+- 2022-09-21 — feat(timeline): add drag-and-drop functionality for subtitle alignment
