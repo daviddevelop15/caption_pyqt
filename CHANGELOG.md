@@ -610,3 +610,4 @@
 - 2022-09-21 — feat(timeline): add drag-and-drop functionality for subtitle alignment
 - 2022-09-26 — feat: add support for exporting subtitles in SRT format
 - 2022-09-27 — feat(video): add speech-to-text support for live captioning feature
+- 2022-09-30 — feat(captioning): added real-time speech recognition for captions display
