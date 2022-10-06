@@ -612,3 +612,4 @@
 - 2022-09-27 — feat(video): add speech-to-text support for live captioning feature
 - 2022-09-30 — feat(captioning): added real-time speech recognition for captions display
 - 2022-10-05 — feat(video-sync): implement auto-sync feature for live captioning output
+- 2022-10-06 — feat: add speech-to-text support for multiple languages in the app
