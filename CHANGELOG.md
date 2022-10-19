@@ -615,3 +615,4 @@
 - 2022-10-06 — feat: add speech-to-text support for multiple languages in the app
 - 2022-10-11 — feat(captioning): add speech-to-text support for live video input
 - 2022-10-13 — feat(captions): implement real-time speech recognition for live captions
+- 2022-10-19 — feat(video): add real-time caption display for live streaming sessions
