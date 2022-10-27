@@ -617,3 +617,4 @@
 - 2022-10-13 — feat(captions): implement real-time speech recognition for live captions
 - 2022-10-19 — feat(video): add real-time caption display for live streaming sessions
 - 2022-10-20 — feat(video): add support for custom subtitle styles in editor UI
+- 2022-10-27 — feat(captioning): add support for adjustable subtitle font size settings
