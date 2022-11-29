@@ -630,3 +630,4 @@
 - 2022-11-23 — feat(captioning): add support for multiple languages in speech-to-text feature
 - 2022-11-24 — feat(captioning): implement real-time speech-to-text accuracy improvements
 - 2022-11-28 — feat(video): add real-time captioning support with speech-to-text API
+- 2022-11-29 — feat(captioning): add support for multiple audio sources in subtitle sync
