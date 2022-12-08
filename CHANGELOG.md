@@ -633,3 +633,4 @@
 - 2022-11-29 — feat(captioning): add support for multiple audio sources in subtitle sync
 - 2022-11-30 — feat(captioning): add support for real-time text formatting options
 - 2022-12-05 — feat(captions): add live editing feature for caption synchronization
+- 2022-12-08 — feat(video): add support for real-time speaker identification in captions
