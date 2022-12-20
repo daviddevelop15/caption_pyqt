@@ -636,3 +636,4 @@
 - 2022-12-08 — feat(video): add support for real-time speaker identification in captions
 - 2022-12-13 — feat(video): add live timestamp syncing for improved subtitle accuracy
 - 2022-12-15 — feat(video): implement real-time speech-to-text functionality for captions
+- 2022-12-20 — feat(video): add support for multiple audio tracks in live captioning
