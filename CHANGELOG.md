@@ -639,3 +639,4 @@
 - 2022-12-20 — feat(video): add support for multiple audio tracks in live captioning
 - 2022-12-22 — feat(video): add real-time speech-to-text captioning support
 - 2022-12-23 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2022-12-26 — feat(video): add support for exporting subtitles in SRT format
