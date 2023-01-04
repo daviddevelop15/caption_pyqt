@@ -643,3 +643,4 @@
 - 2022-12-28 — feat(captioning): add support for multi-language subtitle export options
 - 2022-12-29 — feat: add real-time speech recognition support for live captioning
 - 2023-01-02 — feat(timeline): add draggable markers for improved caption synchronization
+- 2023-01-04 — feat(video-captions): add support for multiple languages in speech-to-text
