@@ -647,3 +647,4 @@
 - 2023-01-09 — feat: add support for multi-language captions in subtitle editor
 - 2023-01-11 — feat(video): add live transcription updates for improved captioning accuracy
 - 2023-01-13 — feat(captioning): integrate new speech-to-text model for improved accuracy
+- 2023-01-16 — feat: add support for exporting subtitles in SRT format
