@@ -648,3 +648,4 @@
 - 2023-01-11 — feat(video): add live transcription updates for improved captioning accuracy
 - 2023-01-13 — feat(captioning): integrate new speech-to-text model for improved accuracy
 - 2023-01-16 — feat: add support for exporting subtitles in SRT format
+- 2023-01-17 — feat(video): add support for real-time subtitle editing in the timeline
