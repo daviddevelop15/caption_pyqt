@@ -657,3 +657,4 @@
 - 2023-02-08 — feat(video-captioning): implement real-time subtitle adjustments on timeline
 - 2023-02-09 — feat(video): add speech-to-text integration for real-time captioning
 - 2023-02-10 — feat: add real-time speech-to-text processing for live captioning
+- 2023-02-14 — feat(captioning): add real-time speech-to-text integration for better accuracy
