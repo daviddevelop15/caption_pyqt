@@ -660,3 +660,4 @@
 - 2023-02-14 — feat(captioning): add real-time speech-to-text integration for better accuracy
 - 2023-02-15 — feat(captioning): add real-time speech-to-text processing module
 - 2023-02-17 — feat(video): add live captioning support for multiple languages
+- 2023-02-22 — feat(video): add timeline sync feature for improved caption editing
