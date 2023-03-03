@@ -663,3 +663,4 @@
 - 2023-02-22 — feat(video): add timeline sync feature for improved caption editing
 - 2023-02-24 — feat(timeline): add drag-and-drop functionality for subtitle adjustments
 - 2023-02-27 — feat(video): implement real-time speech-to-text for improved accuracy
+- 2023-03-03 — feat(timeline): add draggable markers for better subtitle alignment
