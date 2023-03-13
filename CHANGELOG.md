@@ -666,3 +666,4 @@
 - 2023-03-03 — feat(timeline): add draggable markers for better subtitle alignment
 - 2023-03-08 — feat(video): add speech-to-text functionality for real-time captioning
 - 2023-03-10 — feat(captioning): add real-time speech-to-text engine integration for captions
+- 2023-03-13 — feat(video): add real-time speech-to-text functionality for captions
