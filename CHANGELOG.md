@@ -668,3 +668,4 @@
 - 2023-03-10 — feat(captioning): add real-time speech-to-text engine integration for captions
 - 2023-03-13 — feat(video): add real-time speech-to-text functionality for captions
 - 2023-03-15 — feat(video): add support for real-time caption synchronization during playback
+- 2023-03-17 — feat: add support for exporting captions in SRT format for better compatibility
