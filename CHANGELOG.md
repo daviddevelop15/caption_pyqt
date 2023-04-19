@@ -678,3 +678,4 @@
 - 2023-04-12 — feat: add live captioning feature to support real-time video editing
 - 2023-04-14 — feat: add support for custom subtitle formats during export process
 - 2023-04-17 — feat(captioning): implement real-time speech-to-text for improved accuracy
+- 2023-04-19 — fix: drop smoke test
