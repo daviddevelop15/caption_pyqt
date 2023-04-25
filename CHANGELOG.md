@@ -681,3 +681,4 @@
 - 2023-04-19 — fix: drop smoke test
 - 2023-04-21 — feat(captioning): add support for real-time speech-to-text processing
 - 2023-04-24 — feat(video): add real-time speech-to-text processing for captions
+- 2023-04-25 — feat(video): add live speech-to-text functionality for captions
