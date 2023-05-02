@@ -684,3 +684,4 @@
 - 2023-04-25 — feat(video): add live speech-to-text functionality for captions
 - 2023-04-27 — feat(captioning): add support for multiple language audio processing
 - 2023-05-01 — feat(captioning): add support for multiple language subtitles in editor
+- 2023-05-02 — feat(captioning): add support for custom font styles in subtitles display
