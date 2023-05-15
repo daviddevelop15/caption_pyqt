@@ -687,3 +687,4 @@
 - 2023-05-02 — feat(captioning): add support for custom font styles in subtitles display
 - 2023-05-09 — feat: add real-time speech-to-text functionality for enhanced captioning
 - 2023-05-11 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2023-05-15 — feat(captioning): implement real-time speech-to-text processing engine
