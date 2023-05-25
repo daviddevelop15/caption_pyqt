@@ -691,3 +691,4 @@
 - 2023-05-17 — feat: add customizable subtitle styles for improved user experience
 - 2023-05-18 — feat(captioning): add speech-to-text feature for real-time subtitles
 - 2023-05-22 — feat(captions): add speech-to-text functionality for real-time captions
+- 2023-05-25 — feat(video): implement speech-to-text for real-time captioning feature
