@@ -693,3 +693,4 @@
 - 2023-05-22 — feat(captions): add speech-to-text functionality for real-time captions
 - 2023-05-25 — feat(video): implement speech-to-text for real-time captioning feature
 - 2023-05-26 — feat(video): add real-time caption synchronization to the timeline
+- 2023-05-29 — feat(captioning): add speech-to-text support for multiple languages
