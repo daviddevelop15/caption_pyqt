@@ -696,3 +696,4 @@
 - 2023-05-29 — feat(captioning): add speech-to-text support for multiple languages
 - 2023-06-01 — feat(video-captions): add support for multiple languages in captioning
 - 2023-06-05 — feat: implement speech-to-text feature for real-time captioning
+- 2023-06-06 — feat(video): add support for multiple audio tracks in captioning process
