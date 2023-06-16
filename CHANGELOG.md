@@ -698,3 +698,4 @@
 - 2023-06-05 — feat: implement speech-to-text feature for real-time captioning
 - 2023-06-06 — feat(video): add support for multiple audio tracks in captioning process
 - 2023-06-13 — feat: add live editing support for captions with real-time updates
+- 2023-06-16 — feat(video): add support for real-time subtitle editing interface
