@@ -700,3 +700,4 @@
 - 2023-06-13 — feat: add live editing support for captions with real-time updates
 - 2023-06-16 — feat(video): add support for real-time subtitle editing interface
 - 2023-06-19 — feat(video): add speech-to-text functionality for real-time captioning
+- 2023-06-21 — feat(video): implement real-time caption update during playback
