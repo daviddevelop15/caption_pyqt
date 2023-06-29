@@ -703,3 +703,4 @@
 - 2023-06-21 — feat(video): implement real-time caption update during playback
 - 2023-06-23 — feat: add customizable text styles for caption display settings
 - 2023-06-27 — feat(video): add support for real-time caption styling options
+- 2023-06-29 — feat(video): implement real-time speech-to-text processing for captions
