@@ -707,3 +707,4 @@
 - 2023-06-30 — feat(video): add live captioning feature with real-time speech-to-text
 - 2023-07-03 — feat(video): implement real-time captioning using updated STT engine
 - 2023-07-04 — feat(captioning): add customizable font size for subtitles in settings
+- 2023-07-06 — feat(video): add real-time speech-to-text processing for captions
