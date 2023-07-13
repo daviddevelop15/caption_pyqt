@@ -709,3 +709,4 @@
 - 2023-07-04 — feat(captioning): add customizable font size for subtitles in settings
 - 2023-07-06 — feat(video): add real-time speech-to-text processing for captions
 - 2023-07-11 — feat: add real-time editing for subtitle text in live video sessions
+- 2023-07-13 — feat(captioning): add real-time speech-to-text functionality for captions
