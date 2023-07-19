@@ -712,3 +712,4 @@
 - 2023-07-13 — feat(captioning): add real-time speech-to-text functionality for captions
 - 2023-07-14 — feat(ui): add timeline controls for precise subtitle syncing
 - 2023-07-18 — feat(captioning): add support for multiple audio sources in live captions
+- 2023-07-19 — feat(captioning): add language selection for speech-to-text functionality
