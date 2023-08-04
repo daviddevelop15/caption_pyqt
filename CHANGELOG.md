@@ -717,3 +717,4 @@
 - 2023-07-25 — feat(video): add support for custom font styles in captions editor
 - 2023-07-28 — feat(video): add speech-to-text functionality for live captioning
 - 2023-08-01 — feat(video): add live captioning UI updates for better accessibility
+- 2023-08-04 — feat(captioning): add support for multiple languages in speech-to-text module
