@@ -719,3 +719,4 @@
 - 2023-08-01 — feat(video): add live captioning UI updates for better accessibility
 - 2023-08-04 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2023-08-07 — feat(video): add live transcription feature with real-time syncing
+- 2023-08-09 — feat(video): add speech-to-text support for multiple languages
