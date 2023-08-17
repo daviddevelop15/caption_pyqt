@@ -721,3 +721,4 @@
 - 2023-08-07 — feat(video): add live transcription feature with real-time syncing
 - 2023-08-09 — feat(video): add speech-to-text support for multiple languages
 - 2023-08-14 — feat(video): add speech recognition support for multiple languages
+- 2023-08-17 — feat: add real-time language switching for improved accessibility
