@@ -724,3 +724,4 @@
 - 2023-08-17 — feat: add real-time language switching for improved accessibility
 - 2023-08-18 — feat(video): add support for real-time subtitle editing during playback
 - 2023-08-22 — feat(video-captions): add real-time speech-to-text support for editing
+- 2023-08-24 — feat(captioning): add speech-to-text functionality for real-time captions
