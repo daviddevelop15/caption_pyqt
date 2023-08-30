@@ -726,3 +726,4 @@
 - 2023-08-22 — feat(video-captions): add real-time speech-to-text support for editing
 - 2023-08-24 — feat(captioning): add speech-to-text functionality for real-time captions
 - 2023-08-28 — feat(video): add speech-to-text support for live captioning workflow
+- 2023-08-30 — feat(captioning): add support for multiple audio streams in live captions
