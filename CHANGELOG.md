@@ -729,3 +729,4 @@
 - 2023-08-30 — feat(captioning): add support for multiple audio streams in live captions
 - 2023-08-31 — feat(video-captions): add real-time speaker identification for captions
 - 2023-09-05 — feat(timeline): add manual adjustment feature for better sync control
+- 2023-09-07 — feat(timeline): add drag-and-drop functionality for caption syncing
