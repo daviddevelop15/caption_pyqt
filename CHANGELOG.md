@@ -731,3 +731,4 @@
 - 2023-09-05 — feat(timeline): add manual adjustment feature for better sync control
 - 2023-09-07 — feat(timeline): add drag-and-drop functionality for caption syncing
 - 2023-09-11 — feat: add speech-to-text functionality for real-time captioning
+- 2023-09-12 — feat: add speech recognition support for multiple languages in captions
