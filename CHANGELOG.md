@@ -734,3 +734,4 @@
 - 2023-09-12 — feat: add speech recognition support for multiple languages in captions
 - 2023-09-19 — feat(video): add real-time speech-to-text for live captioning user flow
 - 2023-09-22 — feat(video): add real-time speech-to-text for live captioning feature
+- 2023-09-26 — feat(video): add live captioning support using speech-to-text engine
