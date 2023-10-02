@@ -736,3 +736,4 @@
 - 2023-09-22 — feat(video): add real-time speech-to-text for live captioning feature
 - 2023-09-26 — feat(video): add live captioning support using speech-to-text engine
 - 2023-09-28 — feat: add auto-sync feature for captions based on video timeline
+- 2023-10-02 — feat: add speech-to-text functionality for real-time captioning
