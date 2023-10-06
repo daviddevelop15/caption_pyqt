@@ -738,3 +738,4 @@
 - 2023-09-28 — feat: add auto-sync feature for captions based on video timeline
 - 2023-10-02 — feat: add speech-to-text functionality for real-time captioning
 - 2023-10-04 — feat(captioning): add support for multiple audio sources in live captions
+- 2023-10-06 — feat: add speech-to-text model selection for enhanced accuracy options
