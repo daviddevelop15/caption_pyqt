@@ -741,3 +741,4 @@
 - 2023-10-06 — feat: add speech-to-text model selection for enhanced accuracy options
 - 2023-10-11 — feat(captioning): implement real-time speech-to-text for live captions
 - 2023-10-13 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2023-10-18 — feat(video): add speech-to-text functionality for real-time captioning
