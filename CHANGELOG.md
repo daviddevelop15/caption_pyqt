@@ -744,3 +744,4 @@
 - 2023-10-18 — feat(video): add speech-to-text functionality for real-time captioning
 - 2023-10-19 — feat(timeline): add draggable markers for easier subtitle syncing
 - 2023-10-26 — feat(video): add support for importing captions from SRT files
+- 2023-10-27 — feat(captioning): add speech-to-text support for multiple languages
