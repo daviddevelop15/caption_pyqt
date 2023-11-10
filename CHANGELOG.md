@@ -749,3 +749,4 @@
 - 2023-11-03 — feat(video): add support for multiple audio sources in captioning tool
 - 2023-11-06 — feat(captions): add support for custom fonts in subtitle editor options
 - 2023-11-09 — feat(timeline): implement draggable captions for better sync adjustments
+- 2023-11-10 — feat(video): add speech-to-text functionality for live captioning
