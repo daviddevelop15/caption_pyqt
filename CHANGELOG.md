@@ -759,3 +759,4 @@
 - 2023-11-29 — feat(subtitles): add support for custom font styles in subtitle editor
 - 2023-12-01 — feat(video): add support for multi-language subtitle export options
 - 2023-12-04 — feat(video): implement live captioning toggle for user settings menu
+- 2023-12-06 — feat(captions): add support for multiple language subtitle exports
