@@ -760,3 +760,4 @@
 - 2023-12-01 — feat(video): add support for multi-language subtitle export options
 - 2023-12-04 — feat(video): implement live captioning toggle for user settings menu
 - 2023-12-06 — feat(captions): add support for multiple language subtitle exports
+- 2023-12-08 — feat(captioning): add real-time speech-to-text support for live videos
