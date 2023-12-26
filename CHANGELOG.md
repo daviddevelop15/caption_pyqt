@@ -765,3 +765,4 @@
 - 2023-12-15 — feat(video): add speech-to-text functionality for live captioning
 - 2023-12-18 — feat(video): add speech-to-text feature for real-time captioning
 - 2023-12-20 — feat(captioning): add ability to customize subtitle font and size options
+- 2023-12-26 — feat(video): integrate new speech-to-text model for improved accuracy
