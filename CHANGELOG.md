@@ -769,3 +769,4 @@
 - 2023-12-28 — feat(video): add speech-to-text functionality for live captions
 - 2024-01-02 — feat(video): add real-time captioning support with speech-to-text integration
 - 2024-01-04 — feat(video): add speech recognition support for live captioning feature
+- 2024-01-08 — feat(captioning): add support for multiple languages in speech-to-text module
