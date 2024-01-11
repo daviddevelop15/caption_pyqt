@@ -771,3 +771,4 @@
 - 2024-01-04 — feat(video): add speech recognition support for live captioning feature
 - 2024-01-08 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2024-01-10 — feat(ui): implement real-time subtitle preview in timeline editor
+- 2024-01-11 — feat(video): add support for multiple language subtitle exports
