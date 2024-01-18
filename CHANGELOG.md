@@ -773,3 +773,4 @@
 - 2024-01-10 — feat(ui): implement real-time subtitle preview in timeline editor
 - 2024-01-11 — feat(video): add support for multiple language subtitle exports
 - 2024-01-17 — feat(captioning): add support for multiple language captioning options
+- 2024-01-18 — feat(subtitles): add support for multiple language subtitle tracks
