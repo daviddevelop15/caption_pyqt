@@ -775,3 +775,4 @@
 - 2024-01-17 — feat(captioning): add support for multiple language captioning options
 - 2024-01-18 — feat(subtitles): add support for multiple language subtitle tracks
 - 2024-01-19 — feat(video-captions): add support for multi-language subtitle exports
+- 2024-01-22 — feat(video): add real-time speech-to-text functionality for captions
