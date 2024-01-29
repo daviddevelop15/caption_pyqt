@@ -777,3 +777,4 @@
 - 2024-01-19 — feat(video-captions): add support for multi-language subtitle exports
 - 2024-01-22 — feat(video): add real-time speech-to-text functionality for captions
 - 2024-01-24 — feat(captioning): add speech-to-text integration for real-time captions
+- 2024-01-29 — feat: add real-time speech-to-text functionality for live captioning
