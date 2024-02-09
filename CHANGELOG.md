@@ -780,3 +780,4 @@
 - 2024-01-29 — feat: add real-time speech-to-text functionality for live captioning
 - 2024-02-01 — feat(video): add speech-to-text engine for real-time captioning
 - 2024-02-06 — feat(video): add support for SRT file import and export options
+- 2024-02-09 — feat(video): add customizable caption styles for enhanced user experience
