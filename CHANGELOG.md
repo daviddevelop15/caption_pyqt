@@ -783,3 +783,4 @@
 - 2024-02-09 — feat(video): add customizable caption styles for enhanced user experience
 - 2024-02-12 — feat(video): add live timestamp synchronization for captioning output
 - 2024-02-13 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2024-02-14 — feat(captioning): add speech-to-text support for real-time transcription
