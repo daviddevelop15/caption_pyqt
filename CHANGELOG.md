@@ -785,3 +785,4 @@
 - 2024-02-13 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2024-02-14 — feat(captioning): add speech-to-text support for real-time transcription
 - 2024-02-20 — feat(captioning): implement real-time speech-to-text for live video inputs
+- 2024-02-23 — feat: add support for exporting subtitles in SRT format
