@@ -789,3 +789,4 @@
 - 2024-02-26 — feat: add support for exporting subtitles in SRT format
 - 2024-02-29 — feat: add speech-to-text support for multiple languages in captioning
 - 2024-03-04 — feat(captioning): add real-time speech recognition for live captions
+- 2024-03-07 — feat(subtitles): add support for multiple language captions in export feature
