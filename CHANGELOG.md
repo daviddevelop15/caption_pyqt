@@ -795,3 +795,4 @@
 - 2024-03-12 — feat(video): add real-time speech recognition for live captioning functionality
 - 2024-03-18 — feat(captioning): implement real-time speech-to-text integration for live sessions
 - 2024-03-21 — feat(captioning): implement real-time speech recognition for improved accuracy
+- 2024-03-25 — feat(captioning): add speech-to-text feature for real-time captions
