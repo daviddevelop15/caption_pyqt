@@ -798,3 +798,4 @@
 - 2024-03-25 — feat(captioning): add speech-to-text feature for real-time captions
 - 2024-03-29 — feat(video): add real-time speech-to-text functionality for captions
 - 2024-04-03 — feat(captioning): add support for multiple audio tracks in live captions
+- 2024-04-05 — feat(subtitles): add support for multiple language captioning options
