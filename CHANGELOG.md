@@ -800,3 +800,4 @@
 - 2024-04-03 — feat(captioning): add support for multiple audio tracks in live captions
 - 2024-04-05 — feat(subtitles): add support for multiple language captioning options
 - 2024-04-09 — feat(subtitles): add support for custom font styles in caption editor
+- 2024-04-10 — feat(captioning): add real-time speech-to-text support for video playback
