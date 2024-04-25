@@ -804,3 +804,4 @@
 - 2024-04-16 — feat: add support for exporting subtitles in SRT format to enhance usability
 - 2024-04-18 — feat(video): add support for multiple language captioning options
 - 2024-04-19 — feat(export): add support for exporting subtitles in SRT format
+- 2024-04-25 — feat(video): add real-time subtitle syncing for improved accuracy
