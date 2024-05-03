@@ -808,3 +808,4 @@
 - 2024-04-26 — feat(timeline): add support for dragging subtitle entries in the editor
 - 2024-04-30 — feat(captioning): implement real-time speech-to-text for live captions
 - 2024-05-01 — feat(video): integrate speech-to-text API for real-time captioning
+- 2024-05-03 — feat(captioning): implement real-time caption updates during playback
