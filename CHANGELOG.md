@@ -809,3 +809,4 @@
 - 2024-04-30 — feat(captioning): implement real-time speech-to-text for live captions
 - 2024-05-01 — feat(video): integrate speech-to-text API for real-time captioning
 - 2024-05-03 — feat(captioning): implement real-time caption updates during playback
+- 2024-05-06 — feat(video): add support for real-time speech-to-text processing
