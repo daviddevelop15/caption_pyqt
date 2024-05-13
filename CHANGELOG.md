@@ -811,3 +811,4 @@
 - 2024-05-03 — feat(captioning): implement real-time caption updates during playback
 - 2024-05-06 — feat(video): add support for real-time speech-to-text processing
 - 2024-05-07 — feat(captioning): add live speech-to-text functionality for captions
+- 2024-05-13 — feat(timeline): add keyboard shortcuts for faster video navigation
