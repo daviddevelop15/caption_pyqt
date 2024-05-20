@@ -813,3 +813,4 @@
 - 2024-05-07 — feat(captioning): add live speech-to-text functionality for captions
 - 2024-05-13 — feat(timeline): add keyboard shortcuts for faster video navigation
 - 2024-05-14 — feat(video-captions): add support for customizable subtitle background colors
+- 2024-05-20 — feat(captioning): add support for multi-language subtitle export feature
