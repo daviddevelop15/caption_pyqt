@@ -817,3 +817,4 @@
 - 2024-05-22 — feat(video): add real-time caption display with timeline sync functionality
 - 2024-05-24 — feat(video): add live captioning support with speech-to-text engine
 - 2024-05-29 — feat: add real-time speech-to-text feature for live captions
+- 2024-05-30 — feat(captioning): add support for multiple language subtitles in editor
