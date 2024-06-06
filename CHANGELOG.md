@@ -820,3 +820,4 @@
 - 2024-05-30 — feat(captioning): add support for multiple language subtitles in editor
 - 2024-05-31 — feat(video): add support for exporting captions in SRT format
 - 2024-06-04 — feat(video): add real-time speech-to-text for live captioning functionality
+- 2024-06-06 — feat(video): add real-time captioning feature with speech-to-text API
