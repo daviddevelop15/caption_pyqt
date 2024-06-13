@@ -823,3 +823,4 @@
 - 2024-06-06 — feat(video): add real-time captioning feature with speech-to-text API
 - 2024-06-10 — feat: add support for multiple audio sources in live captioning feature
 - 2024-06-11 — feat(video): add real-time speech-to-text processing for captions
+- 2024-06-13 — feat: add speech-to-text support for real-time captioning feature
