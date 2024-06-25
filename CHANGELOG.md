@@ -826,3 +826,4 @@
 - 2024-06-13 — feat: add speech-to-text support for real-time captioning feature
 - 2024-06-17 — feat(video): add speech-to-text support for live captioning feature
 - 2024-06-19 — feat: add user-configurable font size for caption display settings
+- 2024-06-25 — feat(captioning): add support for real-time speech-to-text processing
