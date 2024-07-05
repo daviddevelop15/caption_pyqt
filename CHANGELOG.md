@@ -829,3 +829,4 @@
 - 2024-06-25 — feat(captioning): add support for real-time speech-to-text processing
 - 2024-06-27 — feat(videos): add live caption display feature to video streaming UI
 - 2024-07-04 — feat(captioning): add support for real-time speaker identification in captions
+- 2024-07-05 — feat(video): add speech-to-text functionality for real-time captioning
