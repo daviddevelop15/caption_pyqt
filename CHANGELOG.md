@@ -831,3 +831,4 @@
 - 2024-07-04 — feat(captioning): add support for real-time speaker identification in captions
 - 2024-07-05 — feat(video): add speech-to-text functionality for real-time captioning
 - 2024-07-08 — feat(captioning): add live speech recognition for real-time subtitles
+- 2024-07-09 — feat: add support for multiple languages in speech-to-text engine
