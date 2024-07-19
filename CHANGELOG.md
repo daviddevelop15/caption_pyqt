@@ -835,3 +835,4 @@
 - 2024-07-12 — feat(timeline): add manual sync option for subtitle adjustments
 - 2024-07-16 — feat(video): add speech-to-text functionality for real-time captioning
 - 2024-07-18 — feat(video): add real-time speech-to-text functionality for captions
+- 2024-07-19 — feat(video-sync): implement timeline synchronization for video playback
