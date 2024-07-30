@@ -839,3 +839,4 @@
 - 2024-07-22 — feat(video): add live speech-to-text functionality for improved captioning
 - 2024-07-25 — feat(video): add speech-to-text support for live captioning feature
 - 2024-07-29 — feat(video): add support for multiple audio sources in live captioning
+- 2024-07-30 — feat(video): add support for multiple language subtitles in export option
