@@ -843,3 +843,4 @@
 - 2024-08-02 — feat(video): add speech-to-text functionality for real-time captioning
 - 2024-08-07 — feat(video): add live speech-to-text feature for real-time captioning
 - 2024-08-09 — feat(video): add speech-to-text feature for live captioning support
+- 2024-08-14 — feat(captioning): add support for customizing subtitle font styles
