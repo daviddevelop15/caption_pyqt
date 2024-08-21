@@ -845,3 +845,4 @@
 - 2024-08-09 — feat(video): add speech-to-text feature for live captioning support
 - 2024-08-14 — feat(captioning): add support for customizing subtitle font styles
 - 2024-08-16 — feat(video): add customizable text size options for captions in settings
+- 2024-08-21 — feat(timeline): add feature to adjust caption timing with drag-and-drop
