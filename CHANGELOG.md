@@ -848,3 +848,4 @@
 - 2024-08-21 — feat(timeline): add feature to adjust caption timing with drag-and-drop
 - 2024-08-23 — feat(captioning): add support for multiple languages in speech-to-text engine
 - 2024-08-28 — feat(captioning): add speech-to-text functionality for live video input
+- 2024-08-29 — feat(video): add support for real-time captioning enhancements in UI
