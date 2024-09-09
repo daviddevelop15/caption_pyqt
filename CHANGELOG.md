@@ -852,3 +852,4 @@
 - 2024-08-30 — feat: add real-time speech-to-text functionality for live captioning
 - 2024-09-02 — feat(video): add live preview feature for caption syncing in timeline
 - 2024-09-06 — feat(video): add speech-to-text functionality for live captions
+- 2024-09-09 — feat(captioning): implement real-time speech-to-text for live captions
