@@ -855,3 +855,4 @@
 - 2024-09-09 — feat(captioning): implement real-time speech-to-text for live captions
 - 2024-09-11 — feat(captioning): add speech-to-text support for multiple languages
 - 2024-09-12 — feat(video): add speech-to-text functionality for live captioning
+- 2024-09-18 — feat(subtitles): add support for custom font styles in caption editor
