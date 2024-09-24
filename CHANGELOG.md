@@ -857,3 +857,4 @@
 - 2024-09-12 — feat(video): add speech-to-text functionality for live captioning
 - 2024-09-18 — feat(subtitles): add support for custom font styles in caption editor
 - 2024-09-20 — feat(subtitles): add support for multiple subtitle formats on export
+- 2024-09-24 — feat(video): add live transcription toggle for enhanced user control
