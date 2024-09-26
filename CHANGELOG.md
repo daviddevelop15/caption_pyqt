@@ -858,3 +858,4 @@
 - 2024-09-18 — feat(subtitles): add support for custom font styles in caption editor
 - 2024-09-20 — feat(subtitles): add support for multiple subtitle formats on export
 - 2024-09-24 — feat(video): add live transcription toggle for enhanced user control
+- 2024-09-26 — feat(video): add support for real-time caption adjustments during playback
