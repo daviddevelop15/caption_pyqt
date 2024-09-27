@@ -859,3 +859,4 @@
 - 2024-09-20 — feat(subtitles): add support for multiple subtitle formats on export
 - 2024-09-24 — feat(video): add live transcription toggle for enhanced user control
 - 2024-09-26 — feat(video): add support for real-time caption adjustments during playback
+- 2024-09-27 — feat(video): add live video stream support for real-time captions
