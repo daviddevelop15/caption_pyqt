@@ -860,3 +860,4 @@
 - 2024-09-24 — feat(video): add live transcription toggle for enhanced user control
 - 2024-09-26 — feat(video): add support for real-time caption adjustments during playback
 - 2024-09-27 — feat(video): add live video stream support for real-time captions
+- 2024-09-30 — feat: add support for SRT file export in subtitle editor functionality
