@@ -863,3 +863,4 @@
 - 2024-09-30 — feat: add support for SRT file export in subtitle editor functionality
 - 2024-10-02 — feat(video): add real-time speech-to-text integration for captions
 - 2024-10-03 — feat(timeline): add draggable markers for improved subtitle syncing
+- 2024-10-07 — feat(video): add real-time speech-to-text processing for live captions
