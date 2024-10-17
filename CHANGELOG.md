@@ -866,3 +866,4 @@
 - 2024-10-07 — feat(video): add real-time speech-to-text processing for live captions
 - 2024-10-09 — feat(ui): add timeline markers for better subtitle alignment and editing
 - 2024-10-16 — feat: add support for exporting subtitles in SRT format
+- 2024-10-17 — feat(captioning): integrate new speech-to-text engine for better accuracy
