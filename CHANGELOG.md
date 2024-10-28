@@ -871,3 +871,4 @@
 - 2024-10-21 — feat(video): add real-time speech-to-text integration for live captioning
 - 2024-10-22 — feat: implement real-time speech-to-text conversion for live captions
 - 2024-10-24 — feat: add speech-to-text feature for real-time captioning support
+- 2024-10-28 — feat(video-captions): add live speech recognition for real-time captions
