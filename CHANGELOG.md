@@ -874,3 +874,4 @@
 - 2024-10-28 — feat(video-captions): add live speech recognition for real-time captions
 - 2024-10-30 — feat(video-captions): add support for multiple language subtitles output
 - 2024-10-31 — feat(video): add support for multiple language subtitle exports
+- 2024-11-04 — feat(video): add speech-to-text functionality for improved captioning
