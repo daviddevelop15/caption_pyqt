@@ -877,3 +877,4 @@
 - 2024-11-04 — feat(video): add speech-to-text functionality for improved captioning
 - 2024-11-08 — feat(video): add speech-to-text support for live captioning feature
 - 2024-11-11 — feat(timeline): add feature to adjust caption duration with drag-and-drop
+- 2024-11-13 — feat(video-captions): add support for multiple language subtitles export
