@@ -879,3 +879,4 @@
 - 2024-11-11 — feat(timeline): add feature to adjust caption duration with drag-and-drop
 - 2024-11-13 — feat(video-captions): add support for multiple language subtitles export
 - 2024-11-15 — feat(subtitles): add speech-to-text integration for real-time captioning
+- 2024-11-20 — feat: add support for exporting subtitles in SRT format
