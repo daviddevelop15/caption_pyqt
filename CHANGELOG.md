@@ -882,3 +882,4 @@
 - 2024-11-20 — feat: add support for exporting subtitles in SRT format
 - 2024-11-21 — feat(video): add support for real-time speaker identification in captions
 - 2024-11-22 — feat: added support for exporting subtitles in SRT and VTT formats
+- 2024-11-25 — feat(captioning): add support for multi-language subtitle exports
