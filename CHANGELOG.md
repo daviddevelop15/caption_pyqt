@@ -884,3 +884,4 @@
 - 2024-11-22 — feat: added support for exporting subtitles in SRT and VTT formats
 - 2024-11-25 — feat(captioning): add support for multi-language subtitle exports
 - 2024-11-26 — feat: add keyboard shortcuts for quick subtitle editing actions
+- 2024-12-02 — feat(captioning): add support for multiple audio sources in live captions
