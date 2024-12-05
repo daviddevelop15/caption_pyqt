@@ -886,3 +886,4 @@
 - 2024-11-26 — feat: add keyboard shortcuts for quick subtitle editing actions
 - 2024-12-02 — feat(captioning): add support for multiple audio sources in live captions
 - 2024-12-03 — feat(subtitle): add support for exporting captions in SRT format
+- 2024-12-05 — feat(captioning): add support for multiple languages in live captions
