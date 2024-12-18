@@ -890,3 +890,4 @@
 - 2024-12-10 — feat(video): add live editing capabilities for subtitles during playback
 - 2024-12-11 — feat(video): add real-time captioning support for live streams
 - 2024-12-17 — feat: add speech-to-text functionality for improved captioning accuracy
+- 2024-12-18 — feat(captioning): add support for multilingual speech-to-text processing
