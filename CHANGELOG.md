@@ -893,3 +893,4 @@
 - 2024-12-18 — feat(captioning): add support for multilingual speech-to-text processing
 - 2024-12-20 — feat: implement real-time video synchronization for captions and subtitles
 - 2024-12-24 — feat(video): add support for user-defined subtitle styling options
+- 2024-12-26 — feat(video): add speech-to-text functionality for improved captioning
