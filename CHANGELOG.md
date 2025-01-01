@@ -896,3 +896,4 @@
 - 2024-12-26 — feat(video): add speech-to-text functionality for improved captioning
 - 2024-12-27 — feat(video-captioning): implement real-time speech-to-text processing
 - 2024-12-30 — feat(video): add support for multiple audio tracks in captioning module
+- 2025-01-01 — feat: add real-time speech-to-text functionality for live captioning
