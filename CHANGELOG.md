@@ -898,3 +898,4 @@
 - 2024-12-30 — feat(video): add support for multiple audio tracks in captioning module
 - 2025-01-01 — feat: add real-time speech-to-text functionality for live captioning
 - 2025-01-03 — feat: add speech-to-text integration for live captioning functionality
+- 2025-01-07 — feat: add support for exporting subtitles in SRT format
