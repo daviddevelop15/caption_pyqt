@@ -899,3 +899,4 @@
 - 2025-01-01 — feat: add real-time speech-to-text functionality for live captioning
 - 2025-01-03 — feat: add speech-to-text integration for live captioning functionality
 - 2025-01-07 — feat: add support for exporting subtitles in SRT format
+- 2025-01-09 — feat(captioning): add support for multiple audio sources in live captioning
