@@ -906,3 +906,4 @@
 - 2025-01-17 — feat(captioning): add support for multiple languages in speech-to-text model
 - 2025-01-20 — feat: add live speech-to-text functionality for improved captioning
 - 2025-01-21 — feat(video): add live speech-to-text functionality for captions
+- 2025-01-23 — feat(timeline): add draggable markers for easier subtitle synchronization
