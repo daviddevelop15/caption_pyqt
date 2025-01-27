@@ -907,3 +907,4 @@
 - 2025-01-20 — feat: add live speech-to-text functionality for improved captioning
 - 2025-01-21 — feat(video): add live speech-to-text functionality for captions
 - 2025-01-23 — feat(timeline): add draggable markers for easier subtitle synchronization
+- 2025-01-27 — feat(video): add speech-to-text support for live captioning feature
