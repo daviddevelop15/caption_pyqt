@@ -909,3 +909,4 @@
 - 2025-01-23 — feat(timeline): add draggable markers for easier subtitle synchronization
 - 2025-01-27 — feat(video): add speech-to-text support for live captioning feature
 - 2025-01-30 — feat(ui): add interactive timeline controls for subtitle editing
+- 2025-02-04 — feat(subtitles): implement real-time speech-to-text for live captioning
