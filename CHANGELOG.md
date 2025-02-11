@@ -912,3 +912,4 @@
 - 2025-02-04 — feat(subtitles): implement real-time speech-to-text for live captioning
 - 2025-02-05 — feat(video): add support for multiple audio tracks in captioning tool
 - 2025-02-06 — feat(video): add real-time speech-to-text for improved captioning accuracy
+- 2025-02-11 — feat(video): add real-time subtitle editing feature in timeline view
