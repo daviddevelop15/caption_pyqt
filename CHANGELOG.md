@@ -914,3 +914,4 @@
 - 2025-02-06 — feat(video): add real-time speech-to-text for improved captioning accuracy
 - 2025-02-11 — feat(video): add real-time subtitle editing feature in timeline view
 - 2025-02-13 — feat(video-captioning): add real-time speech recognition support for captions
+- 2025-02-14 — feat(video): implement live captioning feature using speech-to-text API
