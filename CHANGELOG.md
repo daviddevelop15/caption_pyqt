@@ -917,3 +917,4 @@
 - 2025-02-14 — feat(video): implement live captioning feature using speech-to-text API
 - 2025-02-18 — feat: add real-time caption synchronization for enhanced user experience
 - 2025-02-20 — feat(video): add support for multiple video sources in live captioning
+- 2025-02-24 — feat(video-captioning): add support for custom font styles in subtitles
