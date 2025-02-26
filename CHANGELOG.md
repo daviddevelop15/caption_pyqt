@@ -918,3 +918,4 @@
 - 2025-02-18 — feat: add real-time caption synchronization for enhanced user experience
 - 2025-02-20 — feat(video): add support for multiple video sources in live captioning
 - 2025-02-24 — feat(video-captioning): add support for custom font styles in subtitles
+- 2025-02-26 — feat(captions): implement automatic language detection for subtitles
