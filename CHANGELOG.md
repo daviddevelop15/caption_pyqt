@@ -920,3 +920,4 @@
 - 2025-02-24 — feat(video-captioning): add support for custom font styles in subtitles
 - 2025-02-26 — feat(captions): implement automatic language detection for subtitles
 - 2025-03-03 — feat(captioning): add support for multiple language subtitle exports
+- 2025-03-06 — feat: add support for multiple language captions in subtitle editor
