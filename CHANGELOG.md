@@ -923,3 +923,4 @@
 - 2025-03-06 — feat: add support for multiple language captions in subtitle editor
 - 2025-03-07 — feat: add real-time speech-to-text functionality for live captions
 - 2025-03-10 — feat(video-sync): implement real-time timeline syncing for captions
+- 2025-03-11 — feat(video): add real-time speech-to-text integration for captions
