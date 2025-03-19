@@ -926,3 +926,4 @@
 - 2025-03-11 — feat(video): add real-time speech-to-text integration for captions
 - 2025-03-12 — feat(video-captions): add support for multi-language subtitle export
 - 2025-03-17 — feat(captioning): add support for real-time subtitle editing during playback
+- 2025-03-19 — feat(video): add speech-to-text feature for real-time captioning
