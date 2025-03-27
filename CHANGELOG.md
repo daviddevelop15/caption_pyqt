@@ -928,3 +928,4 @@
 - 2025-03-17 — feat(captioning): add support for real-time subtitle editing during playback
 - 2025-03-19 — feat(video): add speech-to-text feature for real-time captioning
 - 2025-03-20 — feat(captioning): add support for adjustable subtitle font sizes in settings
+- 2025-03-27 — feat(video): add real-time speech-to-text functionality for captions
