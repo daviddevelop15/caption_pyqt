@@ -934,3 +934,4 @@
 - 2025-04-02 — feat(video): add real-time speech-to-text functionality for captions
 - 2025-04-03 — feat(captions): add support for multiple language models in speech-to-text
 - 2025-04-08 — feat(captioning): implement real-time speech recognition for live captions
+- 2025-04-10 — feat(video): add real-time captioning support for streaming input
