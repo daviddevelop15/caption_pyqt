@@ -939,3 +939,4 @@
 - 2025-04-16 — feat(captions): implement real-time speech-to-text for live video feed
 - 2025-04-17 — feat(video): add live editing support for subtitle timeline adjustments
 - 2025-04-22 — feat(timing): add timeline synchronization for improved subtitle precision
+- 2025-04-24 — feat(video): add real-time speech-to-text functionality for captions
