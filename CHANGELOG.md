@@ -942,3 +942,4 @@
 - 2025-04-24 — feat(video): add real-time speech-to-text functionality for captions
 - 2025-04-25 — feat(video): add speech-to-text functionality for live captions
 - 2025-04-28 — feat(video): add support for exporting captions in SRT format
+- 2025-04-29 — feat(captioning): add real-time speech-to-text support for captions
