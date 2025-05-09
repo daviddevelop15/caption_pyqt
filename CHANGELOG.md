@@ -945,3 +945,4 @@
 - 2025-04-29 — feat(captioning): add real-time speech-to-text support for captions
 - 2025-05-01 — feat(timeline): add drag-and-drop functionality for subtitle sync
 - 2025-05-08 — feat(timeline): add functionality for manual subtitle adjustments in sync
+- 2025-05-09 — feat(video): add speech-to-text functionality for real-time captioning
