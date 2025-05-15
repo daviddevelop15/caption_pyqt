@@ -947,3 +947,4 @@
 - 2025-05-08 — feat(timeline): add functionality for manual subtitle adjustments in sync
 - 2025-05-09 — feat(video): add speech-to-text functionality for real-time captioning
 - 2025-05-12 — feat(captioning): add speech-to-text feature for real-time captions
+- 2025-05-15 — feat(video): add speech-to-text functionality for live captioning
