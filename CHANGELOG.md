@@ -953,3 +953,4 @@
 - 2025-05-22 — feat(captioning): add support for custom subtitle formats in exports
 - 2025-05-23 — feat(captioning): add support for multiple languages in subtitle editing
 - 2025-05-27 — feat(captions): add support for multiple language subtitle exports
+- 2025-05-29 — feat(captioning): add support for real-time speech-to-text conversion
