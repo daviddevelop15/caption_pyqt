@@ -955,3 +955,4 @@
 - 2025-05-27 — feat(captions): add support for multiple language subtitle exports
 - 2025-05-29 — feat(captioning): add support for real-time speech-to-text conversion
 - 2025-05-30 — feat(timeline): add keyframe support for precise subtitle syncing
+- 2025-06-03 — feat(video): add speech-to-text engine for real-time captioning
