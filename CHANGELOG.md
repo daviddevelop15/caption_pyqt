@@ -957,3 +957,4 @@
 - 2025-05-30 — feat(timeline): add keyframe support for precise subtitle syncing
 - 2025-06-03 — feat(video): add speech-to-text engine for real-time captioning
 - 2025-06-05 — feat: add support for exporting subtitles in SRT format
+- 2025-06-06 — feat(video): add real-time caption synchronization for live streams
