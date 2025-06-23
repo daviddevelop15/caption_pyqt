@@ -962,3 +962,4 @@
 - 2025-06-10 — feat: add speech recognition support for multiple languages in captions
 - 2025-06-16 — feat(captioning): add multilingual support for live captioning feature
 - 2025-06-18 — feat: add speech-to-text functionality for live video captioning
+- 2025-06-23 — feat(video): add real-time speech-to-text functionality for captions
