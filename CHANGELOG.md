@@ -966,3 +966,4 @@
 - 2025-06-26 — feat(video): add live preview feature for caption synchronization
 - 2025-06-30 — feat(captioning): add real-time speech-to-text support for live video
 - 2025-07-03 — feat(video): add real-time speech-to-text functionality for captions
+- 2025-07-04 — feat(video): add real-time captioning support for live streams
