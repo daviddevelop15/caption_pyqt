@@ -972,3 +972,4 @@
 - 2025-07-10 — feat: add support for exporting subtitles in SRT format
 - 2025-07-15 — feat(video): add real-time speech-to-text conversion for captions
 - 2025-07-18 — feat(video): add support for custom subtitle styles in editor interface
+- 2025-07-22 — feat(captioning): add support for multiple languages in speech-to-text
