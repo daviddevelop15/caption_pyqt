@@ -974,3 +974,4 @@
 - 2025-07-18 — feat(video): add support for custom subtitle styles in editor interface
 - 2025-07-22 — feat(captioning): add support for multiple languages in speech-to-text
 - 2025-07-24 — feat: add automatic speech detection for live captioning feature
+- 2025-07-29 — feat(video): add realtime captioning for live video streams with STT functionality
