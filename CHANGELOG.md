@@ -975,3 +975,4 @@
 - 2025-07-22 — feat(captioning): add support for multiple languages in speech-to-text
 - 2025-07-24 — feat: add automatic speech detection for live captioning feature
 - 2025-07-29 — feat(video): add realtime captioning for live video streams with STT functionality
+- 2025-08-01 — feat(video): add speech-to-text functionality for real-time captioning
