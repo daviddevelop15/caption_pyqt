@@ -976,3 +976,4 @@
 - 2025-07-24 — feat: add automatic speech detection for live captioning feature
 - 2025-07-29 — feat(video): add realtime captioning for live video streams with STT functionality
 - 2025-08-01 — feat(video): add speech-to-text functionality for real-time captioning
+- 2025-08-05 — feat(export): add functionality to export captions as SRT files
