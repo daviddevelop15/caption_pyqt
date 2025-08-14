@@ -980,3 +980,4 @@
 - 2025-08-08 — feat: add speech-to-text support for multiple languages in captions
 - 2025-08-12 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2025-08-13 — feat(video): add support for real-time caption adjustment on timeline
+- 2025-08-14 — feat: add ability to export captions in SRT format for easier sharing
