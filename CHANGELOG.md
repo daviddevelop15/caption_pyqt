@@ -982,3 +982,4 @@
 - 2025-08-13 — feat(video): add support for real-time caption adjustment on timeline
 - 2025-08-14 — feat: add ability to export captions in SRT format for easier sharing
 - 2025-08-18 — feat(video): add speech-to-text support for real-time captioning
+- 2025-08-19 — feat(captioning): add support for custom font styles in subtitles editor
