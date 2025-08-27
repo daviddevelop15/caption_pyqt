@@ -984,3 +984,4 @@
 - 2025-08-18 — feat(video): add speech-to-text support for real-time captioning
 - 2025-08-19 — feat(captioning): add support for custom font styles in subtitles editor
 - 2025-08-21 — feat(video): add real-time speech-to-text integration for captions
+- 2025-08-27 — feat(captioning): add speaker identification feature to live captions
