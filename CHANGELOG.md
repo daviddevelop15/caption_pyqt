@@ -988,3 +988,4 @@
 - 2025-08-29 — feat(video): add speech-to-text functionality for live captioning
 - 2025-09-01 — feat(video): add speech-to-text functionality for real-time captions
 - 2025-09-03 — feat(timeline): add keyboard shortcuts for faster editing access
+- 2025-09-04 — feat(captioning): add support for multiple language subtitles in editor
