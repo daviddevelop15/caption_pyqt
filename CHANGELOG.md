@@ -991,3 +991,4 @@
 - 2025-09-04 — feat(captioning): add support for multiple language subtitles in editor
 - 2025-09-10 — feat(captioning): add support for custom subtitle formats in export settings
 - 2025-09-12 — feat(video): add support for real-time caption syncing with audio cues
+- 2025-09-15 — feat(video): add support for exporting captions in SRT format
