@@ -994,3 +994,4 @@
 - 2025-09-15 — feat(video): add support for exporting captions in SRT format
 - 2025-09-16 — feat(video): add real-time subtitle editing capabilities for live streams
 - 2025-09-17 — feat: add real-time audio visualization to the captioning interface
+- 2025-09-23 — feat(export): add ability to export captions in SRT format
