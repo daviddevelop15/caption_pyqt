@@ -996,3 +996,4 @@
 - 2025-09-17 — feat: add real-time audio visualization to the captioning interface
 - 2025-09-23 — feat(export): add ability to export captions in SRT format
 - 2025-09-25 — feat(video): add support for multiple subtitle file formats in export
+- 2025-09-26 — feat(video): add support for real-time caption display adjustments
