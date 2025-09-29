@@ -997,3 +997,4 @@
 - 2025-09-23 — feat(export): add ability to export captions in SRT format
 - 2025-09-25 — feat(video): add support for multiple subtitle file formats in export
 - 2025-09-26 — feat(video): add support for real-time caption display adjustments
+- 2025-09-29 — feat(captioning): integrate new speech-to-text engine for improved accuracy
