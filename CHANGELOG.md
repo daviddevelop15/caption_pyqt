@@ -998,3 +998,4 @@
 - 2025-09-25 — feat(video): add support for multiple subtitle file formats in export
 - 2025-09-26 — feat(video): add support for real-time caption display adjustments
 - 2025-09-29 — feat(captioning): integrate new speech-to-text engine for improved accuracy
+- 2025-09-30 — feat(captioning): add support for multiple audio inputs in live captioning
