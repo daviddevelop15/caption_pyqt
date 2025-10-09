@@ -1002,3 +1002,4 @@
 - 2025-10-03 — feat(timeline): add auto-sync feature for captions during playback
 - 2025-10-06 — feat: add the ability to customize subtitle font and size in settings
 - 2025-10-07 — feat(captioning): add option to customize subtitle text color and font size
+- 2025-10-09 — feat(video): add auto-sync feature for live caption timing adjustments
