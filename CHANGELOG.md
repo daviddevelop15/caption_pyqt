@@ -1006,3 +1006,4 @@
 - 2025-10-14 — feat(captioning): add real-time speech-to-text processing for captions
 - 2025-10-15 — feat(video): add real-time speech-to-text for improved captioning accuracy
 - 2025-10-21 — feat: add support for exporting subtitles in SRT format
+- 2025-10-22 — feat(video): add support for multiple languages in captioning feature
