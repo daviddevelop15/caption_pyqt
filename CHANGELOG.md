@@ -1008,3 +1008,4 @@
 - 2025-10-21 — feat: add support for exporting subtitles in SRT format
 - 2025-10-22 — feat(video): add support for multiple languages in captioning feature
 - 2025-10-24 — feat(captioning): add support for custom subtitle styles in editor
+- 2025-10-28 — feat(ui): add live preview for captions during video playback
