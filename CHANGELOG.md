@@ -1011,3 +1011,4 @@
 - 2025-10-28 — feat(ui): add live preview for captions during video playback
 - 2025-10-31 — feat(captioning): add support for multiple languages in speech-to-text 기능
 - 2025-11-05 — feat(subtitles): add support for multiple languages in captioning feature
+- 2025-11-06 — feat(ui): add live text preview for caption editing interface
