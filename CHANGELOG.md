@@ -1014,3 +1014,4 @@
 - 2025-11-06 — feat(ui): add live text preview for caption editing interface
 - 2025-11-07 — feat: add speech recognition model selection for improved accuracy
 - 2025-11-11 — feat(captioning): add speech-to-text support for multiple languages
+- 2025-11-13 — feat(video): add live caption display for improved user experience
