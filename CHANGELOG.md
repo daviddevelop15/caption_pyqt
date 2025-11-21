@@ -1018,3 +1018,4 @@
 - 2025-11-14 — feat(captioning): add real-time speech-to-text functionality for captions
 - 2025-11-18 — feat: add live speech-to-text functionality for improved captioning
 - 2025-11-20 — feat(video): implement real-time caption synchronization with video playback
+- 2025-11-21 — feat(captioning): add support for multiple languages in live captioning
