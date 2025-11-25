@@ -1019,3 +1019,4 @@
 - 2025-11-18 — feat: add live speech-to-text functionality for improved captioning
 - 2025-11-20 — feat(video): implement real-time caption synchronization with video playback
 - 2025-11-21 — feat(captioning): add support for multiple languages in live captioning
+- 2025-11-25 — feat(captioning): add support for multiple languages in speech-to-text conversion
