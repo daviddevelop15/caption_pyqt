@@ -1023,3 +1023,4 @@
 - 2025-11-28 — feat(video): add real-time speech-to-text for improved captioning accuracy
 - 2025-12-02 — feat(captioning): add live transcription feature with adjustable accuracy settings
 - 2025-12-03 — feat(captioning): add support for multiple languages in the speech-to-text module
+- 2025-12-05 — feat(video): add live speech-to-text functionality for improved captions
