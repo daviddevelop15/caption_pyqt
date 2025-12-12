@@ -1025,3 +1025,4 @@
 - 2025-12-03 — feat(captioning): add support for multiple languages in the speech-to-text module
 - 2025-12-05 — feat(video): add live speech-to-text functionality for improved captions
 - 2025-12-11 — feat(timeline): add keyboard shortcuts for timeline navigation and editing
+- 2025-12-12 — feat(video-captions): implement real-time speech-to-text functionality
