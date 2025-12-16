@@ -1027,3 +1027,4 @@
 - 2025-12-11 — feat(timeline): add keyboard shortcuts for timeline navigation and editing
 - 2025-12-12 — feat(video-captions): implement real-time speech-to-text functionality
 - 2025-12-15 — feat: add live video timeline sync for improved caption editing experience
+- 2025-12-16 — feat(captioning): implement live speech-to-text functionality for better accuracy
