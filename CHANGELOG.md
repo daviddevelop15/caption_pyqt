@@ -1029,3 +1029,4 @@
 - 2025-12-15 — feat: add live video timeline sync for improved caption editing experience
 - 2025-12-16 — feat(captioning): implement live speech-to-text functionality for better accuracy
 - 2025-12-19 — feat(video): add speech-to-text integration for live captioning feature
+- 2025-12-23 — feat: add support for exporting captions in SRT format for easier use
