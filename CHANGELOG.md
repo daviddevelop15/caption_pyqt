@@ -1030,3 +1030,4 @@
 - 2025-12-16 — feat(captioning): implement live speech-to-text functionality for better accuracy
 - 2025-12-19 — feat(video): add speech-to-text integration for live captioning feature
 - 2025-12-23 — feat: add support for exporting captions in SRT format for easier use
+- 2025-12-26 — feat(video): add speech recognition for live captioning support
