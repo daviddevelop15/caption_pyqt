@@ -1033,3 +1033,4 @@
 - 2025-12-26 — feat(video): add speech recognition for live captioning support
 - 2025-12-29 — feat(video): add speech-to-text functionality for live captioning
 - 2025-12-31 — feat(captioning): add support for custom subtitle styles in editor
+- 2026-01-01 — feat(captioning): add support for multiple audio sources in live captions
