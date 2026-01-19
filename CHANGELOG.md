@@ -1038,3 +1038,4 @@
 - 2026-01-07 — feat(captioning): add support for live language translation in captions
 - 2026-01-12 — feat: add live video captioning feature with initial speech-to-text support
 - 2026-01-16 — feat(video): add support for real-time subtitle editing in timeline view
+- 2026-01-19 — feat(subtitles): add customizable font size options for captions display
