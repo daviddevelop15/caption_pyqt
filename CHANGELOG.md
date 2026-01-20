@@ -1039,3 +1039,4 @@
 - 2026-01-12 — feat: add live video captioning feature with initial speech-to-text support
 - 2026-01-16 — feat(video): add support for real-time subtitle editing in timeline view
 - 2026-01-19 — feat(subtitles): add customizable font size options for captions display
+- 2026-01-20 — feat(video): add speech-to-text functionality for live captioning
