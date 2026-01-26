@@ -1041,3 +1041,4 @@
 - 2026-01-19 — feat(subtitles): add customizable font size options for captions display
 - 2026-01-20 — feat(video): add speech-to-text functionality for live captioning
 - 2026-01-23 — feat(timeline): add support for dragging subtitles on the timeline
+- 2026-01-26 — feat(video): add speech-to-text functionality for live captioning
