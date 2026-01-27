@@ -1042,3 +1042,4 @@
 - 2026-01-20 — feat(video): add speech-to-text functionality for live captioning
 - 2026-01-23 — feat(timeline): add support for dragging subtitles on the timeline
 - 2026-01-26 — feat(video): add speech-to-text functionality for live captioning
+- 2026-01-27 — feat(captioning): implement real-time speech-to-text processing module
