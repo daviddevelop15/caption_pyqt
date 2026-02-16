@@ -1048,3 +1048,4 @@
 - 2026-02-06 — feat(video): implement real-time captioning for live streams
 - 2026-02-10 — feat(captioning): add support for multiple simultaneous audio streams
 - 2026-02-12 — feat(captioning): add support for multiple languages in speech-to-text module
+- 2026-02-16 — feat(subtitles): add support for multiple languages in live captions
