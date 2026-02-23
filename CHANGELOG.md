@@ -1050,3 +1050,4 @@
 - 2026-02-12 — feat(captioning): add support for multiple languages in speech-to-text module
 - 2026-02-16 — feat(subtitles): add support for multiple languages in live captions
 - 2026-02-19 — feat(video): add live captioning feature with speech-to-text integration
+- 2026-02-23 — feat(captioning): add support for multiple languages in speech-to-text module
