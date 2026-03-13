@@ -1057,3 +1057,4 @@
 - 2026-03-05 — feat(video): add support for SRT export in subtitle editing module
 - 2026-03-06 — feat: add new speech-to-text language support for improved accuracy
 - 2026-03-12 — feat(timeline): add draggable markers for better sync control
+- 2026-03-13 — feat(captioning): add real-time speech-to-text integration for live captions
