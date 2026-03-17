@@ -1058,3 +1058,4 @@
 - 2026-03-06 — feat: add new speech-to-text language support for improved accuracy
 - 2026-03-12 — feat(timeline): add draggable markers for better sync control
 - 2026-03-13 — feat(captioning): add real-time speech-to-text integration for live captions
+- 2026-03-17 — feat(video-sync): implement timeline syncing for live captions and subtitles
