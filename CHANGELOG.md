@@ -1059,3 +1059,4 @@
 - 2026-03-12 — feat(timeline): add draggable markers for better sync control
 - 2026-03-13 — feat(captioning): add real-time speech-to-text integration for live captions
 - 2026-03-17 — feat(video-sync): implement timeline syncing for live captions and subtitles
+- 2026-03-19 — feat(ui): add timeline sync feature for improved subtitle alignment
