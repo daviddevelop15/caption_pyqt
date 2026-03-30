@@ -1062,3 +1062,4 @@
 - 2026-03-19 — feat(ui): add timeline sync feature for improved subtitle alignment
 - 2026-03-23 — feat(video): add support for exporting subtitles in WebVTT format
 - 2026-03-24 — feat(video): add support for multiple audio sources in captioning module
+- 2026-03-30 — feat(captioning): add support for multiple languages in speech-to-text feature
