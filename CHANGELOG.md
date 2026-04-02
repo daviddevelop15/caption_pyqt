@@ -1064,3 +1064,4 @@
 - 2026-03-24 — feat(video): add support for multiple audio sources in captioning module
 - 2026-03-30 — feat(captioning): add support for multiple languages in speech-to-text feature
 - 2026-04-01 — feat(captioning): add real-time speech-to-text integration for improved accuracy
+- 2026-04-02 — feat(video): add real-time subtitle editing to the timeline interface
