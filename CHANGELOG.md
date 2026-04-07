@@ -1066,3 +1066,4 @@
 - 2026-04-01 — feat(captioning): add real-time speech-to-text integration for improved accuracy
 - 2026-04-02 — feat(video): add real-time subtitle editing to the timeline interface
 - 2026-04-06 — feat(video): add speech-to-text model support for real-time captions
+- 2026-04-07 — feat(video): add speech-to-text functionality for real-time captions
