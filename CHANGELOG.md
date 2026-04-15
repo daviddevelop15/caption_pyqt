@@ -1069,3 +1069,4 @@
 - 2026-04-07 — feat(video): add speech-to-text functionality for real-time captions
 - 2026-04-10 — feat: add speech-to-text functionality for real-time captioning
 - 2026-04-14 — feat: add speech-to-text functionality for live captioning feature
+- 2026-04-15 — feat: add speech-to-text integration for real-time captioning updates
