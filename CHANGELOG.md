@@ -1071,3 +1071,4 @@
 - 2026-04-14 — feat: add speech-to-text functionality for live captioning feature
 - 2026-04-15 — feat: add speech-to-text integration for real-time captioning updates
 - 2026-04-17 — feat(captioning): add real-time speech-to-text support for enhanced accuracy
+- 2026-04-20 — feat(video): implement real-time caption display during playback
