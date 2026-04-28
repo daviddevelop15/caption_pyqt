@@ -1074,3 +1074,4 @@
 - 2026-04-20 — feat(video): implement real-time caption display during playback
 - 2026-04-21 — feat(captioning): add support for multiple language subtitles in export
 - 2026-04-24 — feat(captioning): add support for custom subtitle styles and fonts
+- 2026-04-28 — feat(video-captions): add speech-to-text functionality for live captions
