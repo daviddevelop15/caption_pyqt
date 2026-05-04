@@ -1076,3 +1076,4 @@
 - 2026-04-24 — feat(captioning): add support for custom subtitle styles and fonts
 - 2026-04-28 — feat(video-captions): add speech-to-text functionality for live captions
 - 2026-04-30 — feat(captioning): add real-time speech-to-text support for captions
+- 2026-05-04 — feat(captions): add support for multiple languages in live captioning
