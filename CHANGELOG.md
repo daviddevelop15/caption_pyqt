@@ -1079,3 +1079,4 @@
 - 2026-05-04 — feat(captions): add support for multiple languages in live captioning
 - 2026-05-07 — feat(video): add speech-to-text support for real-time captioning
 - 2026-05-08 — feat: add real-time speech-to-text functionality for live video captioning
+- 2026-05-12 — feat(captioning): add real-time speech-to-text functionality for captions
