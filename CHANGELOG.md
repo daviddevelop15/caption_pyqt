@@ -1084,3 +1084,4 @@
 - 2026-05-18 — feat(captioning): add real-time speech-to-text support for live captions
 - 2026-05-19 — feat(video-captions): add support for multiple language subtitles export
 - 2026-05-21 — feat(timeline): add drag-and-drop support for subtitle repositioning
+- 2026-05-27 — feat(video-sync): add timeline synchronization for live captioning feature
