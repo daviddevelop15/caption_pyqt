@@ -1087,3 +1087,4 @@
 - 2026-05-27 — feat(video-sync): add timeline synchronization for live captioning feature
 - 2026-05-29 — feat(timeline): add drag-and-drop functionality for subtitle segments
 - 2026-06-01 — feat(video): implement live captioning feature with speech-to-text support
+- 2026-06-04 — feat: add speech-to-text functionality for real-time captioning support
