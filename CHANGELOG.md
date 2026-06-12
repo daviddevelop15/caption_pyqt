@@ -1090,3 +1090,4 @@
 - 2026-06-04 — feat: add speech-to-text functionality for real-time captioning support
 - 2026-06-08 — feat: add speech-to-text integration for real-time captioning support
 - 2026-06-09 — feat(captioning): add support for real-time speech-to-text processing
+- 2026-06-12 — feat(timeline): add support for manual caption adjustment on the timeline
