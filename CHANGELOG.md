@@ -1092,3 +1092,4 @@
 - 2026-06-09 — feat(captioning): add support for real-time speech-to-text processing
 - 2026-06-12 — feat(timeline): add support for manual caption adjustment on the timeline
 - 2026-06-15 — feat: add support for exporting subtitles in SRT format
+- 2026-06-16 — feat(captions): add support for custom subtitle formatting options in UI
